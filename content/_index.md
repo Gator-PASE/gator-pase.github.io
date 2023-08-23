@@ -11,7 +11,7 @@ sections:
         Policy Advocacy in
         Science and Engineering
       image:
-        filename: welcome.jpg
+        filename: PercyLarge.png
       text: |
         <br>
         
