@@ -1,21 +1,22 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2023-01-23
 type: landing
 
 sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Policy Advocacy in
+        Science and Engineering
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        **Policy Advocacy in Science and Engineering (PASE)** seeks to bring attention to policy issues in science and engineering and teach students how to practice social responsibility, with a focus on skills and training related to science communication and policy advocacy.
+
   
   - block: collection
     content:
@@ -61,7 +62,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+        {{% cta cta_link="https://gator-pase.netlify.app/people" cta_text="Meet the team →" %}}
     design:
       columns: '1'
 ---
