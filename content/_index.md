@@ -62,7 +62,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="https://gator-pase.netlify.app/people" cta_text="Meet the team →" %}}
+        {{< cta cta_link="https://gator-pase.netlify.app/people" cta_text="Meet the team →" >}}
     design:
       columns: '1'
 ---
