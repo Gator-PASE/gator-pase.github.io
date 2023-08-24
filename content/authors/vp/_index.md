@@ -3,19 +3,19 @@
 title: Kassandra (Kass) Fernandez
 
 # Full Name (for SEO)
-first_name: Kassandra
-last_name: Fernandez
+first_name: Ava
+last_name: Burgess
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: PASE President
+role: PASE Vice President
 
 # Organizations/Affiliations
 organizations:
-  - name: Department of Engineering Education
-    url: 'https://www.eng.ufl.edu/eed/'
+  - name: Department of Biomedical Engineering
+    url: 'https://www.bme.ufl.edu/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include critical mentorship, social responsibility, science communication, and science and education policy.
