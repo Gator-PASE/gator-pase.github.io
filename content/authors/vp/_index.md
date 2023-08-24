@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Kassandra (Kass) Fernandez
+title: Ava Burgess
 
 # Full Name (for SEO)
 first_name: Ava
