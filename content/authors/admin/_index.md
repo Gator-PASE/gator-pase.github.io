@@ -80,4 +80,4 @@ Kass is a Graduate Research Assistant at the University of Florida in Gainesvill
 
 Before embarking on their PhD journey, they worked as a science teacher at a Title I school in Homestead, Florida and as an adjunct professor of Microbiology at a Hispanic-serving community college in Miami, Florida. As an educator, they utilized equitable teaching practices and encouraged student agency to ensure positive learning outcomes.
 
-Visit their website to learn more: https://kassstem.github.io/
+Visit their website to learn more: https://KassSTEM.github.io/
