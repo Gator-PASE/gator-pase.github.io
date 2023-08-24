@@ -1,41 +1,42 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Kassandra (Kass) Fernandez
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Kassandra
+last_name: Fernandez
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: President
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: Department of Engineering Education
+    url: 'https://www.eng.ufl.edu/eed/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include critical mentorship, social responsibility, science communication, and science and education policy.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Critical Mentorship
+  - Social Responsibility
+  - Science Communication
+  - Science and Education Policy
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Engineering Education
+      institution: University of Florida
+      year: 2027
+    - course: MSc in Microbiology and Cell Science
+      institution: University of Florida
+      year: 2020
+    - course: BSc in Biological Sciences
+      institution: Miami Dade College
+      year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -44,16 +45,19 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:kfernandez1@ufl.edu'
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/kassfedz/
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/KassSTEM
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=EwzeybIAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/KassSTEM
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,9 +73,11 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Executive Board
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Kass is a Graduate Research Assistant at the University of Florida in Gainesville, Florida, where they are pursuing their PhD in Engineering Education (EED). They graduated from Miami Dade College with a B.S. in Biological Sciences and from the University of Florida with an M.S. in Microbiology and Cell Science.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Before embarking on their PhD journey, they worked as a science teacher at a Title I school in Homestead, Florida and as an adjunct professor of Microbiology at a Hispanic-serving community college in Miami, Florida. As an educator, they utilized equitable teaching practices and encouraged student agency to ensure positive learning outcomes.
+
+Their doctoral research focuses on social responsibility in science and engineering, with special emphasis placed on the importance of science communication and policy advocacy. They are also interested in the intersection of institutional culture and transformational change towards cultivating more inclusive and equitable access for underrepresented minority students in STEM fields.
