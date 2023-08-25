@@ -76,8 +76,6 @@ user_groups:
   - Executive Board
 ---
 
-Kass is a Graduate Research Assistant at the University of Florida in Gainesville, Florida, where they are pursuing their PhD in Engineering Education (EED). They graduated from Miami Dade College with a B.S. in Biological Sciences and from the University of Florida with an M.S. in Microbiology and Cell Science.
-
-Before embarking on their PhD journey, they worked as a science teacher at a Title I school in Homestead, Florida and as an adjunct professor of Microbiology at a Hispanic-serving community college in Miami, Florida. As an educator, they utilized equitable teaching practices and encouraged student agency to ensure positive learning outcomes.
+Kass is a Graduate Research Assistant in Dr. Nancy Ruzycki's lab. Previously, they worked as a science teacher at a Title I school in Homestead, Florida and as an adjunct professor of Microbiology at a Hispanic-serving community college in Miami, Florida. As an educator, they utilized equitable teaching practices and encouraged student agency to ensure positive learning outcomes.
 
 Visit their website to learn more: https://KassSTEM.github.io/
