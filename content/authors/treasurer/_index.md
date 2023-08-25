@@ -34,7 +34,10 @@ education:
     - course: MSc in Biomedical Engineering
       institution: University of Florida
       year: 2022
-    - course: BSc in Biomedical Sciences & BSc in Physics
+    - course: BSc in Physics
+      institution: University of South Florida
+      year: 2019
+    - course: BSc in Biomedical Sciences
       institution: University of South Florida
       year: 2019
 
