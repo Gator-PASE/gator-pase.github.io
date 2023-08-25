@@ -30,7 +30,7 @@ education:
   courses:
     - course: PhD in Biomedical Engineering
       institution: University of Florida
-      year: 2027
+      year: 2025
     - course: MSc in Biomedical Engineering
       institution: University of Florida
       year: 2022
