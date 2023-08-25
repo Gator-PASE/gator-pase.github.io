@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Policy Advocacy in Science and Engineering. <br>This work is licensed under {license}'
+    notice: '© {year} Policy Advocacy in Science and Engineering. <br><br>This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
