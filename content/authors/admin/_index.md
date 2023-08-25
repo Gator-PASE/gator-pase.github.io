@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Kassandra (Kass) Fernandez
+title: Kassandra Fernandez
 
 # Full Name (for SEO)
 first_name: Kassandra
