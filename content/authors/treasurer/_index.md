@@ -71,4 +71,4 @@ user_groups:
   - Executive Board
 ---
 
-Lucas is a Graduate Research Assistant focusing on mitigating the immunogenicity of protein therapeutics delivered via a protein drug delivery system developed in our lab. The protein drugs he works with are suspected to have immunomodulatory functions by decreasing inflammation in vivo.
+Lucas is a Graduate Research Assistant in the [SupraMolecular BioLab](https://www.bme.ufl.edu/labs/hudalla/). His research focuses on mitigating the immunogenicity of protein therapeutics delivered via an in-house protein drug delivery system. The protein drugs he works with are suspected to have immunomodulatory functions by decreasing inflammation in vivo.
