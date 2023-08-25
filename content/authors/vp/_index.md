@@ -18,25 +18,22 @@ organizations:
     url: 'https://www.bme.ufl.edu/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include critical mentorship, social responsibility, science communication, and science and education policy.
+bio: My research interests include neural engineering, machine learning, artificial intelligence, and neuromodulation.
 
 interests:
-  - Critical Mentorship
-  - Social Responsibility
-  - Science Communication
-  - Science and Education Policy
+  - Neural Engineering
+  - Machine Learning
+  - Artificial Intelligence
+  - Neuromodulation
 
 education:
   courses:
-    - course: PhD in Engineering Education
+    - course: PhD in Biomedical Engineering
       institution: University of Florida
       year: 2027
-    - course: MSc in Microbiology and Cell Science
-      institution: University of Florida
-      year: 2020
-    - course: BSc in Biological Sciences
-      institution: Miami Dade College
-      year: 2017
+    - course: BSc in Engineering
+      institution: Wake Forest University
+      year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -45,19 +42,11 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:kfernandez1@ufl.edu'
+    link: 'mailto:avaburgess@ufl.edu'
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/kassfedz/
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/KassSTEM
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=EwzeybIAAAAJ&hl=en
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/KassSTEM
+    link: https://www.linkedin.com/in/avaburgess
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -76,8 +65,4 @@ user_groups:
   - Executive Board
 ---
 
-Kass is a Graduate Research Assistant at the University of Florida in Gainesville, Florida, where they are pursuing their PhD in Engineering Education (EED). They graduated from Miami Dade College with a B.S. in Biological Sciences and from the University of Florida with an M.S. in Microbiology and Cell Science.
-
-Before embarking on their PhD journey, they worked as a science teacher at a Title I school in Homestead, Florida and as an adjunct professor of Microbiology at a Hispanic-serving community college in Miami, Florida. As an educator, they utilized equitable teaching practices and encouraged student agency to ensure positive learning outcomes.
-
-Visit their website to learn more: https://KassSTEM.github.io/
+Ava is a Graduate Research Assistant in the [Brain Mapping Lab](http://brainmappinglab.org) under research guidance from Dr. Ayşegül Gündüz. Her primary research interests within Biomedical Engineering include Neural Engineering/Neuroengineering, Machine Learning, and Artificial Intelligence, with a primary focus on Neuromodulation techniques such as Deep Brain Stimulation (DBS) systems towards understanding neurological disorders such as Epilepsy, Essential Tremor, Tourette's syndrome, etc. Her ultimate research goals are to impact the overall quality of life for patients with neurological disorders to relieve systems impeding life through better imaging techniques, instrumentation, therapeutics, and treatments.
