@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Esteban Bermúdez-Berríos
+title: Esteban Bermúdez
 
 # Full Name (for SEO)
 first_name: Esteban
