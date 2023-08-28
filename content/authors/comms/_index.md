@@ -24,7 +24,7 @@ interests:
   - Chronic Inflammation
   - HIV Prevention
   - Bacterial Vaginosis
-  - Applied proteomics
+  - Applied Proteomics
 
 education:
   courses:
