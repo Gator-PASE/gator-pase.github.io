@@ -62,7 +62,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Committee Member
+  - Committee Members
 ---
 
 Cameron is a Graduate Research Assistant in the [Stabler Diabetes Tissue Engineering Lab](https://www.bme.ufl.edu/labs/stabler/).
