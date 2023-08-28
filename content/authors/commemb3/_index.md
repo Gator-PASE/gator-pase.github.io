@@ -62,7 +62,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Committee Member
+  - Committee Members
 ---
 
 Want to see yourself here instead of a placeholder? Please reach out to Kass today!
