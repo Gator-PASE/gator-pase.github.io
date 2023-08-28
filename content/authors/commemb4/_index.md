@@ -17,14 +17,14 @@ organizations:
   - name: Department of Biomedical Engineering
     url: 'https://www.bme.ufl.edu/'
 
-    # Short bio (displayed in user profile at end of posts)
-    bio: My research interests include biomaterials, biotechnology, product development, and drug discovery.
+# Short bio (displayed in user profile at end of posts)
+bio: My research interests include biomaterials, biotechnology, product development, and drug discovery.
 
-    interests:
-      - Biomaterials
-      - Biotechnology
-      - Product Development
-      - Drug Discovery
+interests:
+  - Biomaterials
+  - Biotechnology
+  - Product Development
+  - Drug Discovery
 
 education:
   courses:
