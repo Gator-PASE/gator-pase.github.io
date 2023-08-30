@@ -10,7 +10,7 @@ last_name:
 superuser: false
 
 # Role/position
-role: PASE Outreach Committee Member
+role: PASE Outreach Committee
 
 # Organizations/Affiliations
 organizations:
