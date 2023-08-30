@@ -10,7 +10,7 @@ last_name:
 superuser: false
 
 # Role/position
-role: PASE Communications Committee Member
+role: PASE Communications Committee
 
 # Organizations/Affiliations
 organizations:
