@@ -10,7 +10,7 @@ last_name: Smith
 superuser: false
 
 # Role/position
-role: PASE Events Committee Member
+role: PASE Events Committee
 
 # Organizations/Affiliations
 organizations:
