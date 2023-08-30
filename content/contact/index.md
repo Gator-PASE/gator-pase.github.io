@@ -6,19 +6,19 @@ type: landing
 
 sections:
   - block: socials
-    - icon: envelope
+      icon: envelope
       icon_pack: fas
       link: 'mailto:PASE@bme.ufl.edu'
-    - icon: linkedin
+      icon: linkedin
       icon_pack: fab
       link: https://www.linkedin.com/company/gator-pase/
-    - icon: twitter
+      icon: twitter
       icon_pack: fab
       link: https://twitter.com/Gator_PASE
-    - icon: instagram
+      icon: instagram
       icon_pack: fab
       link: https://instagram.com/Gator_PASE
-    - icon: youtube
+      icon: youtube
       icon_pack: fab
       link: https://youtube.com/@Gator-PASE
   - block: contact
