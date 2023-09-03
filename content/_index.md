@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
+title: PASE
 date: 2023-01-23
 type: landing
 
