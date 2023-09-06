@@ -65,4 +65,4 @@ user_groups:
   - Executive Board
 ---
 
-Zoe is a Graduate Research Assistant in the [Parker Lab](https://www.parkerhivlab.org/).
+Zoe is a Graduate Research Assistant in the [Parker Lab](https://www.parkerhivlab.org/). Her research focuses on uncovering the molecular mechanisms behind trained immunity caused by the tuberculosis vaccine, how these mechanisms could impact global health, multi-omics analysis, and other microbial interactions with the innate immune system.
