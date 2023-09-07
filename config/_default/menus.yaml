@@ -8,7 +8,7 @@ main:
     url: people
     weight: 10
   - name: Events
-    url: events
+    url: event
     weight: 20
   - name: Newsletters
     url: newsletter
