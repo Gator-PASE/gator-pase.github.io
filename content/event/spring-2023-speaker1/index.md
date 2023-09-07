@@ -12,7 +12,7 @@ address:
   postcode: '32611'
   country: United States
 
-summary: Let's talk about hidden curriculum in engineering.
+summary: Let's talk about hidden curriculum in engineering!
 abstract: 'Join PASE for an informal conversation about the systemic and structural messaging that impacts the educational experiences of engineering students.'
 
 # Talk start and end times.
