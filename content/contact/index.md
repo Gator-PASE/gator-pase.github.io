@@ -9,12 +9,8 @@ sections:
     content:
       title: Contact
       text: |-
-        Ready to become a member? [Complete the interest form today!](https://ufl.qualtrics.com/jfe/form/SV_ewFhF3vrD2qodxQ) If you have any questions, feel free to reach out via email or speak to one of our members.
+        Ready to become a member? [Complete the interest form today!](https://ufl.qualtrics.com/jfe/form/SV_ewFhF3vrD2qodxQ) If you have any questions, feel free to reach out via email or speak to one of our members. Be sure to [follow us on social media](https://linktr.ee/gator_pase)!
       email: PASE@bme.ufl.edu
-      linkedin: https://www.linkedin.com/company/gator-pase/
-      twitter: https://twitter.com/Gator_PASE
-      instagram: https://instagram.com/Gator_PASE
-      youtube: https://youtube.com/@Gator-PASE
      # phone: 
       address:
         street: 1275 Center Drive, Biomedical Sciences Building
