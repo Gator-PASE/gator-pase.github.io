@@ -1,5 +1,5 @@
 ---
-title: Fall 2023 GBM
+title: Fall 2023 General Body Meeting
 
 event: Fall 2023 General Body Meeting
 event_url: https://www.linkedin.com/events/paseinfosessionandwelcomemeetin7103042700131651584/
