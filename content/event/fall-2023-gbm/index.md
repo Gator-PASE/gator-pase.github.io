@@ -12,8 +12,8 @@ address:
   postcode: '32611'
   country: United States
 
-summary: Join us for our first GBM of the Fall 2023 semester.
-abstract: 'Welcome you to the new semester! This upcoming Friday, September 8th, we will have our first general body meeting (GBM) in JG32 at the Biomedical Sciences Building. At this meeting, we will present our plans for the semesters, have a discussion about the topics in our recent newsletter, and hear your ideas for other initiatives!'
+summary: Join us for our first GBM of the Fall 2023 semester!
+abstract: 'Welcome to the new semester! This upcoming Friday, September 8th, we will have our first general body meeting (GBM) in JG32 at the Biomedical Sciences Building. At this meeting, we will present our plans for the semesters, have a discussion about the topics in our recent newsletter, and hear your ideas for other initiatives!'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
