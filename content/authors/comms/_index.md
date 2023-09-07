@@ -18,13 +18,13 @@ organizations:
     url: 'https://www.bme.ufl.edu/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include chronic inflammation, HIV prevention, bacterial vaginosis, and applied proteomics.
+bio: My research interests include innate immunity, host-pathogen interactions, global health, and multi-omics analysis.
 
 interests:
-  - Chronic Inflammation
-  - HIV Prevention
-  - Bacterial Vaginosis
-  - Applied Proteomics
+  - Innate Immunity
+  - Host-Pathogen Interactions
+  - Global Health
+  - Multi-omics Analysis
 
 education:
   courses:
