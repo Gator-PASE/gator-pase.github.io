@@ -1,7 +1,7 @@
 ---
-title: "PASE Presents: Idalis Villanueva Alarcón"
+title: PASE Presents/: Dr. Idalis Villanueva Alarcón
 
-event: "PASE Presents: Idalis Villanueva Alarcón"
+event: PASE Presents/: Dr. Idalis Villanueva Alarcón
 event_url: https://www.linkedin.com/events/let-stalkabouthiddencurriculumi7051211283798360065/
 
 location: BMS JG32
@@ -13,7 +13,7 @@ address:
   country: United States
 
 summary: Let's talk about hidden curriculum in engineering.
-abstract: 'Join PASE for an informal conversation about the systemic and structural messaging that impacts an engineering student"'"s educational experience.'
+abstract: 'Join PASE for an informal conversation about the systemic and structural messaging that impacts an engineering student/'s educational experience.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
