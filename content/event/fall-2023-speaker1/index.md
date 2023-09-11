@@ -1,7 +1,7 @@
 ---
-title: PASE Presents - Meagan Pollock
+title: PASE Presents - Dr. Meagan Pollock
 
-event: PASE Presents - Meagan Pollock
+event: PASE Presents - Dr. Meagan Pollock
 event_url: https://www.linkedin.com/events/let-stalkaboutcareersoutsideofa7106996311207383040/
 
 location: BMS JG32
