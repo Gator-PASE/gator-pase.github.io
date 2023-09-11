@@ -12,13 +12,13 @@ address:
   postcode: '32611'
   country: United States
 
-summary: Let's talk about careers outside of academia.
+summary: Let's talk about careers outside of academia!
 abstract: 'Join PASE for a transparent glimpse at an ongoing attempt by one woman at engineering a joyful life doing meaningful work through a consulting career.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2023-09-29T12:00:00Z'
-date_end: '2023-04-27T13:00:00Z'
+date_end: '2023-09-29T13:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
