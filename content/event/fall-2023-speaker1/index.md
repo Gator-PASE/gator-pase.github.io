@@ -13,7 +13,7 @@ address:
   country: United States
 
 summary: Let's talk about careers outside of academia.
-abstract: 'Join PASE for an informal conversation about the systemic and structural messaging that impacts an engineering student"'"s educational experience.'
+abstract: 'Join PASE for a transparent glimpse at an ongoing attempt by one woman at engineering a joyful life doing meaningful work through a consulting career.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
