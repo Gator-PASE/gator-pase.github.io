@@ -4,7 +4,7 @@ title: PASE Presents - Dr. Meagan Pollock
 event: PASE Presents - Dr. Meagan Pollock
 event_url: https://www.linkedin.com/events/let-stalkaboutcareersoutsideofa7106996311207383040/
 
-location: [Zoom](https://us02web.zoom.us/j/86154816616?pwd=ejJ2T0l4QzRscVNoMmxMRVZDU3kvUT09)
+location: Virtual [Zoom](https://us02web.zoom.us/j/86154816616?pwd=ejJ2T0l4QzRscVNoMmxMRVZDU3kvUT09)
 
 summary: Let's talk about careers outside of academia!
 abstract: 'Join PASE for a transparent glimpse at an ongoing attempt by one woman at engineering a joyful life doing meaningful work through a consulting career.'
