@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Outreach Committee Member
+title: Wambui Gachunga
 
 # Full Name (for SEO)
-first_name:
-last_name:
+first_name: Wambui
+last_name: Gachunga
 
 # Is this the primary user of the site?
 superuser: false
@@ -21,19 +21,19 @@ organizations:
 bio: My research interests include...
 
 interests:
-  - 1
-  - 2
-  - 3
-  - 4
+  - Womens Health
+  - Global Health
+  - HIV Prevention
+  - Nantechnology
 
 education:
   courses:
     - course: PhD in Biomedical Engineering
       institution: University of Florida
-      year: 2026
+      year: 2028
     - course: BSc in Biomedical Engineering
-      institution: X University
-      year: 2021
+      institution: University of Oklahoma
+      year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -42,10 +42,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'x@ufl.edu'
+    link: 'gachungaa@ufl.edu'
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/x/
+    link: https://www.linkedin.com/in/wambui-gachunga-5422a1169/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -65,4 +65,4 @@ user_groups:
   - Committee Members
 ---
 
-Want to see yourself here instead of a placeholder? Please reach out to Kass today!
+Wambui is a Graduate Research Assistant in the [Parker Lab](https://www.parkerhivlab.org/).
