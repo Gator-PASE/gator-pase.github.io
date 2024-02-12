@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Events Committee Member
+title: Mariah Turner
 
 # Full Name (for SEO)
-first_name:
-last_name:
+first_name: Mariah
+last_name: Turner
 
 # Is this the primary user of the site?
 superuser: false
@@ -21,10 +21,10 @@ organizations:
 bio: My research interests include...
 
 interests:
-  - 1
-  - 2
-  - 3
-  - 4
+  - Drug delivery
+  - Immunology
+  - Biomaterials
+  - Musculoskeletal regeneration
 
 education:
   courses:
@@ -32,8 +32,8 @@ education:
       institution: University of Florida
       year: 2026
     - course: BSc in Biomedical Engineering
-      institution: X University
-      year: 2021
+      institution: Alabama State University
+      year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -42,10 +42,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'x@ufl.edu'
+    link: 'turnermariah@ufl.edu'
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/x/
+    link: https://www.linkedin.com/in/mariah-turner-7878b4237/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
