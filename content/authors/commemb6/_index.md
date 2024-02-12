@@ -65,4 +65,4 @@ user_groups:
   - Committee Members
 ---
 
-Want to see yourself here instead of a placeholder? Please reach out to Ava today!
+Mariah is a PhD student in the [Taylor Lab](https://www.taylorresearchlab.org/).
