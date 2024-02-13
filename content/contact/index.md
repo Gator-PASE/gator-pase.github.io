@@ -9,7 +9,7 @@ sections:
     content:
       title: Contact
       text: |-
-        Ready to become a member? [Complete the interest form today!](https://ufl.qualtrics.com/jfe/form/SV_ewFhF3vrD2qodxQ) If you have any questions, feel free to reach out via email or speak to one of our members. Be sure to [follow us on social media](https://linktr.ee/gator_pase)!
+        Ready to become a member? [Complete the interest form today!](https://ufl.qualtrics.com/jfe/form/SV_ewFhF3vrD2qodxQ) If you have any questions, feel free to reach out via email or speak to one of our members. Be sure to [follow us on social media](https://gator-pase-links.netlify.app)!
       email: PASE@bme.ufl.edu
      # phone: 
       address:
