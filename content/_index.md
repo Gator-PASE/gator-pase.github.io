@@ -8,12 +8,12 @@ sections:
   - block: hero
     content:
       title: |
-        PASE
+        Policy Advocacy in Science and Engineering
       image:
         filename: PercyLarge.png
       text: |
         
-        Scientists and engineers are ethically bound to produce and communicate scientific knowledge in a sustainable, equitable, and inclusive manner. This is known as social responsibility. PASE is a student organization dedicated to teaching students how to practice social responsibility while providing them opportunities to contribute to sustainable development and promote societal and environmental welfare through civic engagement and science communication.
+        <br>Scientists and engineers are ethically bound to produce and communicate scientific knowledge in a sustainable, equitable, and inclusive manner. This is known as social responsibility. PASE is a student organization dedicated to teaching students how to practice social responsibility while providing them opportunities to contribute to sustainable development and promote societal and environmental welfare through civic engagement and science communication.
   
 #  - block: collection
 #    content:
