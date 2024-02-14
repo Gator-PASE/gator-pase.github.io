@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Policy Advocacy in Science and Engineering (PASE)
+        PASE
       image:
         filename: PercyLarge.png
       text: |
