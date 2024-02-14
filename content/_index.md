@@ -15,8 +15,7 @@ sections:
       text: |
         <br>
         
-        **Policy Advocacy in Science and Engineering (PASE)** seeks to bring attention to policy issues in science and engineering and teach students how to practice social responsibility, with a focus on skills and training related to science communication and policy advocacy.
-
+        Scientists and engineers are ethically bound to produce and communicate scientific knowledge in a sustainable, equitable, and inclusive manner. This is known as social responsibility. **Policy Advocacy in Science and Engineering (PASE)** is a student organization dedicated to teaching students how to practice social responsibility while providing them opportunities to contribute to sustainable development and promote societal and environmental welfare through civic engagement and science communication.
   
 #  - block: collection
 #    content:
