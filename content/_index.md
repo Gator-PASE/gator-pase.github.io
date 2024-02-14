@@ -8,13 +8,12 @@ sections:
   - block: hero
     content:
       title: |
-        Policy Advocacy in
-        Science and Engineering
+        Policy Advocacy in Science and Engineering
       image:
         filename: PercyLarge.png
       text: |
         
-        Scientists and engineers are ethically bound to produce and communicate scientific knowledge in a sustainable, equitable, and inclusive manner. This is known as social responsibility.<br>**Policy Advocacy in Science and Engineering (PASE)** is a student organization dedicated to teaching students how to practice social responsibility while providing them opportunities to contribute to sustainable development and promote societal and environmental welfare through civic engagement and science communication.
+        Scientists and engineers are ethically bound to produce and communicate scientific knowledge in a sustainable, equitable, and inclusive manner. This is known as social responsibility.<br><br>**Policy Advocacy in Science and Engineering (PASE)** is a student organization dedicated to teaching students how to practice social responsibility while providing them opportunities to contribute to sustainable development and promote societal and environmental welfare through civic engagement and science communication.
   
 #  - block: collection
 #    content:
