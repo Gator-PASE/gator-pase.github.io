@@ -2,8 +2,7 @@
 title: Spring 2024 Workshop
 
 event: Spring 2024 Workshop
-event_url: hhttps://www.linkedin.com/events/pasespringwelcomemeeting7160652613753913344/
-
+event_url: https://www.linkedin.com/posts/gator-pase_please-join-us-for-our-first-workshop-covering-activity-7169378866111655936/
 location: BMS JG32
 address:
   street: 1275 Center Drive
