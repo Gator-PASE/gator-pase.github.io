@@ -12,7 +12,7 @@ address:
   country: United States
 
 summary: Join us for our first workshop of the Spring 2024 semester!
-abstract: 'We hope you have been having a wonderful 2024 Spring term thus far! Join us for our first workshop on effective communication strategies for public policy.'
+abstract: 'We hope you have been having a wonderful 2024 Spring term thus far! Join us for our first workshop on effective communication strategies for public policy. [Click here](https://gator-pase.netlify.app/event/spring-2024-workshop/PASE_Power-Mapping_Template.docx) to download the power-mapping template.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
