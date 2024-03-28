@@ -15,24 +15,24 @@ sections:
         
         <br>Scientists and engineers are ethically bound to produce and communicate scientific knowledge in a sustainable, equitable, and inclusive manner. This is known as social responsibility. PASE is a student organization dedicated to teaching students how to practice social responsibility while providing them opportunities to contribute to sustainable development and promote societal and environmental welfare through civic engagement and science communication.
   
-#  - block: collection
-#    content:
-#      title: Latest News
-#      subtitle:
-#      text:
-#      count: 5
-#      filters:
-#        author: ''
-#        category: ''
-#        exclude_featured: false
-#        publication_type: ''
-#        tag: ''
-#      offset: 0
-#      order: desc
-#      page_type: post
-#    design:
-#      view: card
-#      columns: '1'
+  - block: collection
+    content:
+      title: Latest News
+      subtitle:
+      text:
+      count: 5
+      filters:
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        tag: ''
+      offset: 0
+      order: desc
+      page_type: news
+    design:
+      view: card
+      columns: '1'
   
 #  - block: markdown
 #    content:
