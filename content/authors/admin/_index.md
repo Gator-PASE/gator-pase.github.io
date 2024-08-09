@@ -10,7 +10,7 @@ last_name: Fernandez
 superuser: true
 
 # Role/position
-role: PASE President
+role: President
 
 # Organizations/Affiliations
 organizations:
