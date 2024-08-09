@@ -10,7 +10,7 @@ last_name: Melgar
 superuser: false
 
 # Role/position
-role: PASE Treasurer
+role: Treasurer
 
 # Organizations/Affiliations
 organizations:
