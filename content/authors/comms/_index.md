@@ -10,7 +10,7 @@ last_name: Schaefer
 superuser: false
 
 # Role/position
-role: PASE Communications Manager
+role: PASE Vice President of Communications
 
 # Organizations/Affiliations
 organizations:
