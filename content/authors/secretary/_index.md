@@ -10,7 +10,7 @@ last_name: Bermúdez-Berríos
 superuser: false
 
 # Role/position
-role: PASE Secretary
+role: PASE Vice President of Internal Affairs
 
 # Organizations/Affiliations
 organizations:
