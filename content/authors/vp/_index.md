@@ -10,7 +10,7 @@ last_name: Burgess
 superuser: false
 
 # Role/position
-role: PASE Vice President
+role: PASE Vice President of External Affairs
 
 # Organizations/Affiliations
 organizations:
