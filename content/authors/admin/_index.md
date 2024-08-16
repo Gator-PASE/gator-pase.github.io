@@ -21,7 +21,7 @@ organizations:
 bio: My research interests include critical mentorship, social responsibility, science communication, and science and education policy.
 
 interests:
-  - Critical Mentorship
+  - Peer and Near Peer Mentorship
   - Social Responsibility
   - Science Communication
   - Science and Education Policy
