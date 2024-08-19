@@ -1,7 +1,7 @@
 ---
 title: 🌴 Environmentally Focused and Citizen-led Disaster Preparedness
 summary: Esteban Bermudez wrote about local efforts in Puerto Rico to empower the community to help preserve natural resources.
-date: 2024-03-26
+date: 2023-10-03
 authors:
   - vp-internal
 tags:
