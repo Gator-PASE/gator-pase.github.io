@@ -13,15 +13,18 @@ main:
   - name: Events
     url: event
     weight: 30
+  - name: Blog
+    url: blog
+    weight: 40
   - name: Newsletters
     url: newsletter
-    weight: 40
+    weight: 50
   - name: Training
     url: training
-    weight: 50
+    weight: 60
   - name: Contact
     url: contact
-    weight: 60
+    weight: 70
 #  - name: Tour
 #    url: tour
 #    weight: 10
