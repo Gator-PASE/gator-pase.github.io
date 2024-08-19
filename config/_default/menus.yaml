@@ -16,9 +16,12 @@ main:
   - name: Newsletters
     url: newsletter
     weight: 40
+  - name: Training
+    url: training
+    weight: 50
   - name: Contact
     url: contact
-    weight: 50
+    weight: 60
 #  - name: Tour
 #    url: tour
 #    weight: 10
