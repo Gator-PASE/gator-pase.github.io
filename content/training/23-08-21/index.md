@@ -17,16 +17,16 @@ PASE Gator Cameron Crouse created four helpful video tutorials showing how to na
 
 **University of Florida Policy Hub Tutorial**
 
-    {{</ youtube Il4etBXe3yY />}}
+  {{< youtube Il4etBXe3yY >}}
 
 **United States Congress Tutorial**
 
-    {{</ youtube gEgab2n04DI />}}
+  {{< youtube gEgab2n04DI >}}
 
 **Florida State Senate Tutorial**
 
-    {{</ youtube iGQ_NTdb6AQ />}}
+  {{< youtube iGQ_NTdb6AQ >}}
 
 **Florida State House of Representatives Tutorial**
 
-    {{</ youtube miuawkocNS8 />}}
+  {{< youtube miuawkocNS8 >}}
