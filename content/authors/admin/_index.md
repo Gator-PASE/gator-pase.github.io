@@ -18,7 +18,7 @@ organizations:
     url: 'https://www.eng.ufl.edu/eed/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include critical mentorship, social responsibility, science communication, and science and education policy.
+bio: My research interests include STEMM mentorship, social responsibility, science communication, and science and education policy.
 
 interests:
   - Peer and Near Peer Mentorship
