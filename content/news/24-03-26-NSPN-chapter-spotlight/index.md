@@ -12,3 +12,5 @@ PASE Communications Committee members Estefania and Esteban shared PASE's missio
 Check out NSPN's blog post here: https://scipolnetwork.org/nspn?recordId=recPmaQuTEJJ3rKal
 
 ![Screenshot of NSPN Chapter Spotlight](NSPN-chapter-spotlight.jpg)
+
+*Header image credit: Porsche997SBS, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons*
