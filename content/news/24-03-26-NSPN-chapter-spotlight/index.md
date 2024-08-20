@@ -3,7 +3,7 @@ title: Policy Advocacy in Science and Engineering Builds an Education-Focused Co
 date: 2024-03-26
 image:
   placement: 1
-  caption: 'Photo by Porsche997SBS, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons'
+  caption: 'Photo by [Porsche997SBS](https://creativecommons.org/licenses/by-sa/4.0) via Wikimedia Commons'
   focal_point: 'Center'
   preview_only: false
   alt_text: Alligator on the shore of Lake Alice within the University of Florida campus in Gainesville, Florida (also in picture are two softshell turtles).
