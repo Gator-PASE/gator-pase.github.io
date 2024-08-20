@@ -3,12 +3,12 @@ title: Policy Advocacy in Science and Engineering Builds an Education-Focused Co
 date: 2024-03-26
 ---
 
-PASE is in the NSPN Chapter Spotlight!
+**PASE is in the NSPN Chapter Spotlight!**
 
 <!--more-->
 
 PASE Communications Committee members Estefania and Esteban shared PASE's mission and impact with NSPN in their latest blog post, which has been featured in this month's Chapter Spotlight.
 
-![Screenshot of NSPN Chapter Spotlight](NSPN-chapter-spotlight.jpg)
+Check out NSPN's blog post here: https://scipolnetwork.org/nspn?recordId=recPmaQuTEJJ3rKal
 
-Check out the blog here: https://scipolnetwork.org/nspn?recordId=recPmaQuTEJJ3rKal
+![Screenshot of NSPN Chapter Spotlight](NSPN-chapter-spotlight.jpg)
