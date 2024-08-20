@@ -23,14 +23,9 @@ sections:
       text:
       count: 5
       filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: news
+      filters:
+        folders:
+          - news
     design:
       view: card
       columns: '1'
