@@ -66,5 +66,5 @@ step is to convince the public sector and its leadership to follow suit by putti
 of their constituents and the ecosystem above their financial and political interests.
 
 {{% callout note %}}
-This blog post was originally published through NSPN's SciPolBites microblog, however, that has gone offline, so we are sharing it here.
+This blog post was originally published through the National Science Policy Network's [SciPolBites microblog](https://www.scipolnetwork.org/nspn/scipolbites-whose-soil-is-this-happening-in/), however, since that has gone offline, we have opted to host it ourselves.
 {{% /callout %}}
