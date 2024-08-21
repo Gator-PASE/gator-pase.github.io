@@ -1,6 +1,6 @@
 ---
 title: YouTube Tutorials
-summary: Follow along with Cam and learn how to search for policies and legislation more effectively!
+summary: Follow along with PASE Gator Cameron Crouse and learn how to search for policies and legislation more effectively!
 date: 2023-08-21
 math: true
 authors:
@@ -12,8 +12,12 @@ tags:
 image:
   caption: 'text'
 ---
+**Meet Cam**
+<img align="right" src="cam.png" width="200">
 
-PASE Gator Cameron Crouse created four helpful video tutorials showing how to navigate various policy websites and search for policies and legislation more effectively. Check them out below:
+Cameron Crouse is a third year PhD student in the Stabler Lab, studying the effects of supplemental oxygenation on the success of islet transplantation to treat type one diabetes. Due to his personal connection to the disease, he also has a passion for advocacy, specifically with respect to legislature that impacts funding of scientific research associated with type one diabetes and minimizing the costs of the medications needed to manage the condition.
+
+Cam created four helpful video tutorials showing how to navigate various policy websites and search for policies and legislation more effectively. Check them out below:
 
 **University of Florida Policy Hub Tutorial**
 
