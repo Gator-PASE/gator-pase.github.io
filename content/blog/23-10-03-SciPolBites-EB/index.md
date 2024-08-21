@@ -64,3 +64,7 @@ most adequate approach to achieve resiliency. Local communities know what their
 needs are and can propel initiatives to solve them in their particular contexts. The next
 step is to convince the public sector and its leadership to follow suit by putting the safety
 of their constituents and the ecosystem above their financial and political interests.
+
+{{% callout note %}}
+This blog post was originally published through NSPN's SciPolBites microblog, however, that has gone offline, so we are sharing it here.
+{{% /callout %}}
