@@ -13,7 +13,7 @@ PASE is in the NSPN Chapter Spotlight!
 
 <!--more-->
 
-PASE Communications Committee members Estefania and Esteban shared PASE's mission and impact with NSPN in their latest blog post, which has been featured in this month's Chapter Spotlight.
+PASE Gators Estefania Urrego Hernandez and Esteban Bermudez-Berrios shared PASE's mission and impact with NSPN in their latest blog post, which has been featured in this month's Chapter Spotlight.
 
 Check out NSPN's blog post by clicking the image below:
 
