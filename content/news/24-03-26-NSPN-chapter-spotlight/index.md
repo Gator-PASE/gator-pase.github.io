@@ -21,4 +21,4 @@ Check out NSPN's blog post by clicking the image below:
 
 {{% callout note %}}
 This news article was originally published through the National Science Policy Network’s [Chapter Spotlight microblog](https://scipolnetwork.org/nspn?recordId=recPmaQuTEJJ3rKal), however, since that has gone offline, we have opted to host it ourselves.
-{{% /callout %}}[
+{{% /callout %}}
