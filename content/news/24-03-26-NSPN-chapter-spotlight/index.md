@@ -17,7 +17,7 @@ PASE Communications Committee members Estefania and Esteban shared PASE's missio
 
 Check out NSPN's blog post by clicking the image below:
 
-![Screenshot of NSPN Chapter Spotlight](NSPN-chapter-spotlight.jpg)[https://scipolnetwork.org/nspn?recordId=recPmaQuTEJJ3rKal]
+![Screenshot of NSPN Chapter Spotlight](NSPN-chapter-spotlight.jpg)(https://scipolnetwork.org/nspn?recordId=recPmaQuTEJJ3rKal)
 
 {{% callout note %}}
 This news article was originally published through the National Science Policy Network’s [Chapter Spotlight microblog](https://scipolnetwork.org/nspn?recordId=recPmaQuTEJJ3rKal), however, since that has gone offline, we have opted to host it ourselves.
