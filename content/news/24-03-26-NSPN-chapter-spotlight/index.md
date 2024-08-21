@@ -9,7 +9,7 @@ image:
   alt_text: Alligator on the shore of Lake Alice within the University of Florida campus in Gainesville, Florida (also in picture are two softshell turtles).
 ---
 
-**PASE is in the NSPN Chapter Spotlight!**
+PASE is in the NSPN Chapter Spotlight!
 
 <!--more-->
 
