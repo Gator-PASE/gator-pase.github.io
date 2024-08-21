@@ -15,6 +15,10 @@ image:
 
 PASE Communications Committee members Estefania and Esteban shared PASE's mission and impact with NSPN in their latest blog post, which has been featured in this month's Chapter Spotlight.
 
-Check out NSPN's blog post here: https://scipolnetwork.org/nspn?recordId=recPmaQuTEJJ3rKal
+Check out NSPN's blog post by clicking the image below:
 
-![Screenshot of NSPN Chapter Spotlight](NSPN-chapter-spotlight.jpg)
+![Screenshot of NSPN Chapter Spotlight](NSPN-chapter-spotlight.jpg)[https://scipolnetwork.org/nspn?recordId=recPmaQuTEJJ3rKal]
+
+{{% callout note %}}
+This news article was originally published through the National Science Policy Network’s [Chapter Spotlight microblog](https://scipolnetwork.org/nspn?recordId=recPmaQuTEJJ3rKal), however, since that has gone offline, we have opted to host it ourselves.
+{{% /callout %}}[
