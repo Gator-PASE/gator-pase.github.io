@@ -7,6 +7,7 @@ type: landing
 sections:
   - block: collection
     content:
+      title: Blog Posts
       filters:
         folders:
           - blog
