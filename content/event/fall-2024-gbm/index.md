@@ -17,8 +17,8 @@ abstract: 'Welcome to the new semester! This upcoming Tuesday, August 27th, we w
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-08-27T12:00:00Z'
-date_end: '2024-08-27T13:00:00Z'
+date: '2024-09-04T12:00:00Z'
+date_end: '2024-09-04T13:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
