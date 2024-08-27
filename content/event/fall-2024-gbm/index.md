@@ -13,7 +13,7 @@ address:
   country: United States
 
 summary: Join us for our first GBM of the Fall 2024 semester!
-abstract: 'Welcome to the new semester! This upcoming Tuesday, August 27th, we will have our first general body meeting (GBM) in JG32 at the Biomedical Sciences Building. Enjoy a free lunch while will present our plans for this academic year, have a discussion about the topics in our recent newsletter, and hear your ideas for other initiatives!'
+abstract: 'Welcome to the new semester! This upcoming Wednesday, September 4th, we will have our first general body meeting (GBM) in JG32 at the Biomedical Sciences Building. Enjoy a free lunch while will present our plans for this academic year, have a discussion about the topics in our recent newsletter, and hear your ideas for other initiatives!'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
