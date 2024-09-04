@@ -54,3 +54,7 @@ image:
 - After completing this exercise, ask yourself:
   - What is important for you to know about your target? How will you work that into your policy pitch?
   - Do you still feel that you chose the right target? Why or why not?
+ 
+**Additional Resources**
+- [Power Mapping Your Way to Success](https://www.ucsusa.org/sites/default/files/attach/2018/07/SN_Toolkit_Power_Mapping_Your_Way_to_Success.pdf)
+- [Ten Questions for Researching Policymakers](https://www.ucsusa.org/sites/default/files/attach/2018/07/ucs-SNTK-powermap_final.pdf)
