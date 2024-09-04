@@ -27,7 +27,7 @@ image:
 
 **Identifying Your Target Audience**
 - Before you can pitch anyone, you need to know who you are pitching your policy to (who is your target audience?)
-- *Power-mapping* is a tool used to identify your target audience
+- *Power-mapping* is a tool used to identify your target audience and better prepare you for making policy recommendations
   - What needs to change first?
   - Where is that change made?
   - Who can enact that change?
@@ -50,7 +50,7 @@ image:
 - When is the most opportune time to pitch your target based on your research and the policy landscape?
 
 **Power-Mapping Exercise**
-1. Download and complete our [power-mapping template](https://gator-pase.netlify.app/training/24-09-04/power-mapping-template.docx).
-2. After completing this exercise, ask yourself:
+- Download and complete our [power-mapping template](https://gator-pase.netlify.app/training/24-09-04/power-mapping-template.docx).
+- After completing this exercise, ask yourself:
   - What is important for you to know about your target? How will you work that into your policy pitch?
   - Do you still feel that you chose the right target? Why or why not?
