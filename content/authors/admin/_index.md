@@ -73,6 +73,6 @@ user_groups:
   - Executive Board
 ---
 
-Kass is a Graduate Research Assistant in Dr. Nancy Ruzycki's lab. Previously, they worked as a science teacher at a Title I school in Homestead, Florida and as an adjunct professor of Microbiology at a Hispanic-serving community college in Miami, Florida. As an educator, they utilized equitable teaching practices and encouraged student agency to ensure positive learning outcomes.
+Kass is a Graduate Research Assistant in [Dr. Nancy Ruzycki's lab](https://equipd.mse.ufl.edu/). Previously, they worked as a science teacher at a Title I school in Homestead, Florida and as an adjunct professor of Microbiology at a Hispanic-serving community college in Miami, Florida. They are currently exploring perceptions of mentorship within undergraduate STEM student organizations & near peer mentorship between undergraduate student mentors & K-12 student mentees in the context of educational out-of-school time (OST) STEM programs.
 
 Visit their website to learn more: https://KassSTEM.github.io/
