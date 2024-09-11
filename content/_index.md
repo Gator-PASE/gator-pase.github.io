@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
+title: PASE
 date: 2023-01-23
 type: landing
 
@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Welcome to PASE!
+        Welcome to Policy Advocacy in Science and Engineering!
       image:
         filename: PercyLarge.png
       text: |
