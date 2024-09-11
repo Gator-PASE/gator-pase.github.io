@@ -10,7 +10,7 @@ tags:
   - science policy
   - training
 image:
-  caption: 'text'
+  caption: 'Image created by [Kass Fernandez](https://gator-pase.netlify.app/author/kassandra-fernandez/)'
 ---
 **Meet Cam**
 <img align="right" src="cam.png" width="250">
