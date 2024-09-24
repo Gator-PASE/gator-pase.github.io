@@ -10,7 +10,7 @@ tags:
   - science policy
   - training
 image:
-  caption: 'Photo by Microsoft 365 on [Unsplash](https://github.com/user-attachments/assets/e460d781-fb6e-4498-a118-0e5d695f6ce2)'
+  caption: 'Photo by Microsoft 365 on [Unsplash](https://unsplash.com/photos/a-person-sitting-at-a-table-with-a-laptop-oUbzU87d1Gc)'
 ---
 **Interacting with Policymakers**
 
