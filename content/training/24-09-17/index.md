@@ -1,7 +1,7 @@
 ---
 title: Writing Policy-Focused Op-Ed Columns
 summary: Learn how to write op-eds of policy topics for a general audience!
-date: 2024-09-04
+date: 2024-09-17
 math: true
 authors:
   - admin
