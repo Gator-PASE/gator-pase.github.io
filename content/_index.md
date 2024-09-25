@@ -41,5 +41,18 @@ sections:
           - blog
     design:
       view: card
+      columns: '1'  
+
+  - block: collection
+    content:
+      title: Latest Trainings
+      subtitle:
+      text:
+      count: 5
+      filters:
+        folders:
+          - training
+    design:
+      view: card
       columns: '1'
 ---
