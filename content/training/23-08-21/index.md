@@ -1,5 +1,5 @@
 ---
-title: YouTube Tutorials
+title: How to Comduct More Effective Policy Searches
 summary: Follow along with PASE Gator Cameron Crouse and learn how to search for policies and legislation more effectively!
 date: 2023-08-21
 math: true
