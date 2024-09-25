@@ -27,7 +27,7 @@ sections:
         folders:
           - news
     design:
-      view: card
+      view: showcase
       columns: '1'
 
   - block: collection
@@ -40,7 +40,7 @@ sections:
         folders:
           - blog
     design:
-      view: card
+      view: showcase
       columns: '1'  
 
   - block: collection
@@ -53,6 +53,6 @@ sections:
         folders:
           - training
     design:
-      view: card
+      view: showcase
       columns: '1'
 ---
