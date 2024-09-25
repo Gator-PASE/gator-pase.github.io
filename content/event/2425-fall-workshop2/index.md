@@ -1,8 +1,8 @@
 ---
-title: PASE Presents - Ronin Lupien
+title: Policy Poster Workshop
 
-event: PASE Presents - Ronin Lupien
-event_url: https://www.linkedin.com/events/let-stalkaboutop-edsandpolicywr7239722746128031745
+event: Policy Poster Workshop
+event_url: 
 
 location: BMS JG32
 address:
@@ -12,17 +12,17 @@ address:
   postcode: '32611'
   country: United States
 
-summary: Let's talk about op-eds and policy writing!
-abstract: 'Join PASE to learn more about op-eds and writing policy pieces for the general public.'
+summary: Join us to learn best practices for making an impactful policy poster!
+abstract: 'Join PASE to learn more about policy poster creation and work with your policy groups.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-09-17T12:00:00Z'
-date_end: '2024-09-17T13:00:00Z'
+date: '2024-09-24T12:00:00Z'
+date_end: '2024-09-24T13:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2024-09-10T00:00:00Z'
+publishDate: '2024-09-17T00:00:00Z'
 
 authors: []
 tags: []
