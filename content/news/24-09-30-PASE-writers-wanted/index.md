@@ -3,8 +3,10 @@ title: PASE is Looking for Writers!
 date: 2024-09-30
 authors:
   - vp-comms
+tags:
+  - policy writing
 image:
-  
+  caption: 'Photo by Andrew Neel on [Unsplash](https://unsplash.com/photos/macbook-pro-white-ceramic-mugand-black-smartphone-on-table-cckf4TsHAuw)'
 ---
 
 Want to get into policy writing, but short on time? Write for PASE!
