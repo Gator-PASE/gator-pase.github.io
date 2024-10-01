@@ -13,6 +13,8 @@ Want to get into policy writing, but short on time? Write for PASE!
 
 <!--more-->
 
-PASE is looking for members to contribute to our blog and newsletters! This opportunity gives students a platform to develop and publish their own policy pieces without the time commitment of preparing an entire manuscript.
+PASE is looking for members to contribute to our blog and newsletters!
+
+This opportunity gives students a platform to develop and publish their own policy pieces without the time commitment of preparing an entire manuscript.
 
 Interested? Contact [Zoe Schaefer](https://gator-pase.netlify.app/author/zoe-schaefer/) or the [PASE Executive Board](mailto:PASE@bme.ufl.edu) today!
