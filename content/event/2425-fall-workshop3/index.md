@@ -13,7 +13,7 @@ address:
   country: United States
 
 summary: Join us to get feedback on your policy pieces and work with other members to refine your work!
-abstract: 'Join PASE for a hands-on working session to get your policy pieces presentaion or publication ready.'
+abstract: 'Join PASE for a hands-on working session to get your policy pieces presentation or publication ready.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
