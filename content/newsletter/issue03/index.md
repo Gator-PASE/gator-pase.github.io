@@ -4,4 +4,7 @@ date: 2024-07-23
 authors:
   - vp-comms
   - admin
+author_notes:
+  - "Author"
+  - "Editor"
 ---
