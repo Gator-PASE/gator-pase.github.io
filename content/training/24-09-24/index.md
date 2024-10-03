@@ -5,6 +5,8 @@ date: 2024-09-24
 math: true
 authors:
   - admin
+author_notes:
+  - "Author"
 tags:
   - policy poster
   - science policy
