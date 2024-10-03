@@ -4,6 +4,8 @@ summary: PASE Gator Esteban Bermúdez-Berríos wrote about local efforts in Puer
 date: 2023-10-03
 authors:
   - vp-internal
+author_notes:
+  - "Author"
 tags:
   - science policy
   - green infrastructure
