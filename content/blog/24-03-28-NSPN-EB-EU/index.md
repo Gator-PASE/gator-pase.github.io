@@ -5,6 +5,9 @@ date: 2024-03-28
 authors:
   - vp-internal
   - comms-strategist
+author_notes:
+  - "Lead Author"
+  - "Contributing Author"
 tags:
   - science policy
   - science communication
