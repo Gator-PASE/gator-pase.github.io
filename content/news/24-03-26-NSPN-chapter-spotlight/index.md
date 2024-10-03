@@ -3,6 +3,8 @@ title: PASE is in the NSPN Chapter Spotlight!
 date: 2024-03-28
 authors:
   - admin
+author_notes:
+  - "Author"
 image:
   placement: 1
   caption: 'Photo by [Porsche997SBS](https://creativecommons.org/licenses/by-sa/4.0) via Wikimedia Commons'
