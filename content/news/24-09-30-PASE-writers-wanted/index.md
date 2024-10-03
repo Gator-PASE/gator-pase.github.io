@@ -3,6 +3,8 @@ title: PASE is Looking for Writers!
 date: 2024-09-30
 authors:
   - vp-comms
+author_notes:
+  - "Author"
 tags:
   - policy writing
 image:
