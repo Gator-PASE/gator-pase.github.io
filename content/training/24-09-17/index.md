@@ -4,8 +4,11 @@ summary: Learn how to write op-eds of policy topics for a general audience!
 date: 2024-09-17
 math: true
 authors:
-  - admin
   - vp-external
+  - admin
+author_notes:
+  - "Equally Contributing Author"
+  - "Equally Contributing Author"
 tags:
   - policy writing
   - science policy
