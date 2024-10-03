@@ -6,6 +6,9 @@ math: true
 authors:
   - admin
   - contri-author0
+author_notes:
+  - "Author"
+  - "Contributing Author"
 tags:
   - tutorial
   - science policy
