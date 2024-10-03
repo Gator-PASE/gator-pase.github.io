@@ -5,6 +5,8 @@ date: 2024-09-04
 math: true
 authors:
   - admin
+author_notes:
+  - "Author"
 tags:
   - tutorial
   - science policy
