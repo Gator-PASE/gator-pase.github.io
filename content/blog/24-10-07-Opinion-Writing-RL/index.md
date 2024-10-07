@@ -5,7 +5,7 @@ date: 2024-10-07
 authors:
   - contri-author1
 author_notes:
-  - "Lead Author"
+  - "Author"
 tags:
   - science policy
   - science communication
