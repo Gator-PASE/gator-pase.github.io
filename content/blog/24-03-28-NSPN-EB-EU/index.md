@@ -3,11 +3,11 @@ title: Policy Advocacy in Science and Engineering Builds an Education-Focused Co
 summary: PASE Gators Esteban Bermúdez-Berríos and Estefania Urrego Hernández were interviewed about our work by NSPN writer Meredith Schmehl!
 date: 2024-03-28
 authors:
-  - vp-internal
   - comms-strategist
+  - vp-internal
 author_notes:
-  - "Lead Author"
-  - "Contributing Author"
+  - "Author"
+  - "Editor"
 tags:
   - science policy
   - science communication
