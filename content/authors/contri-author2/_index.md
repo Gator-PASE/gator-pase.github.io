@@ -14,8 +14,8 @@ role: PASE Member
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Florida Alumni
-    url: 'https://ufalumni.ufl.edu/'
+  - name: Department of Biomedical Engineering
+    url: 'https://www.bme.ufl.edu/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My interests include medical simulation, translational research, health and social policy, and science communication.
