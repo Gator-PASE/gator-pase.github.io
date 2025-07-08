@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-    - course: MSci in Biomedical Engineering
+    - course: MSc in Biomedical Engineering
       institution: University of Florida
       year: 2026
     - course: BSc in Biomedical Engineering

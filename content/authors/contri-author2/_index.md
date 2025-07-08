@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Ronin Lupien
+title: Aidan Mather
 
 # Full Name (for SEO)
-first_name: Ronin
-last_name: Lupien
+first_name: Aidan
+last_name: Mather
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PASE Alumni
+role: PASE Member
 
 # Organizations/Affiliations
 organizations:
@@ -18,18 +18,20 @@ organizations:
     url: 'https://ufalumni.ufl.edu/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include policy communication, government scientific policy, drug policy, anaerobic microbiology, and diagnostic technology.
+bio: My interests include medical simulation, translational research, health and social policy, and science communication.
 
 interests:
-  - Policy Communication
-  - Government Scientific Policy
-  - Drug Policy
-  - Anaerobic Microbiology
-  - Diagnostic Technology
+  - Medical Simulation
+  - Translational Research
+  - Health and Social Policy
+  - Science Communication
 
 
 education:
   courses:
+    - course: MSc in Biomedical Engineering
+      institution: University of Florida
+      year: 2025
     - course: BSc in Biomedical Engineering
       institution: University of Florida
       year: 2024
@@ -39,12 +41,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'roninlupien@gmail.com'
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/roninalupien/
+    link: https://www.linkedin.com/in/aidan-mather-57104923b
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -64,4 +63,4 @@ user_groups:
   - Contributing Authors
 ---
 
-Ronin Lupien is a former undergraduate student at the University of Florida. During his time, he was a member of multiple organizations, including Generational Relief in Prosthetics, Gator Bioethics Society, as well as serving in the Porras TMI Lab. He also served as a freelance opinion writer, contributing to the Independent Florida Alligator, Florida Political Review, and the Tampa Bay Times. He spent one year independently documenting the University of Student Government via the Substack [Understand UFSG](https://understandufsg.substack.com/). You can read more of his work on [Muckrack](https://muckrack.com/ronin-lupien/articles).
+Aidan Mather is a Graduate Research Assistant at the [Center for Safety, Simulation, and Advanced Learning Technologies](https://simulation.health.ufl.edu/). She is developing mixed-reality simulators for ultrasound-guided thyroid interventions, providing procedural training tools intended to improve medical education and, ultimately, patient outcomes. Guided by empathy and advocacy—values informed by her personal, professional, and academic experiences—Aidan seeks to integrate engineering, medicine, and policy to advance transparent, patient-focused healthcare.
