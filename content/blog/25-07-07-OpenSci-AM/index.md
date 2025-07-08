@@ -23,10 +23,10 @@ The cultural transformation required to embed open science as standard practice 
 
 Although open science does not resolve all challenges facing contemporary research—such as data privacy concerns or the allocation of publication costs—it effectively addresses a significant obstacle: restricted access. By embracing open practices in the present, emerging scholars and early-career researchers can help normalize a future in which scholarly discovery is constrained only by intellectual curiosity, rather than by paywalls or closed repositories. Such a future promises to benefit not only the scientific community but also the many stakeholders who rely on unfettered access to knowledge. 
 
-For a self-paced introduction to open-science practice, explore NASA’s “Open Science 101” training: https://stemgateway.nasa.gov/s/course-offering/a0BSJ0000029hSn/open-science-101 
+For a self-paced introduction to open-science practice, explore [NASA’s “Open Science 101” training](https://stemgateway.nasa.gov/s/course-offering/a0BSJ0000029hSn/open-science-101).
 
 **References**
-- Nelson, Alondra. 08-2022-ostp-public-access-memo.PDF, 2022. https://bidenwhitehouse.archives.govwp-content/uploads/2022/08/08-2022-OSTP-Public-Access-Memo.pdf. 
-- “Open Science.” European Research Executive Agency. Accessed June 14, 2025. https://rea.ec.europa.eu/open-science_en. 
-- “Transparent Peer Review to Be Extended to All of Nature’s Research Papers.” Nature News, June 16, 2025. https://www.nature.com/articles/d41586-025-01880-9. 
+- Nelson, Alondra. 08-2022-ostp-public-access-memo.PDF, 2022. [https://bidenwhitehouse.archives.govwp-content/uploads/2022/08/08-2022-OSTP-Public-Access-Memo.pdf](https://bidenwhitehouse.archives.govwp-content/uploads/2022/08/08-2022-OSTP-Public-Access-Memo.pdf).
+- “Open Science.” European Research Executive Agency. Accessed June 14, 2025. https://rea.ec.europa.eu/open-science_en.
+- “Transparent Peer Review to Be Extended to All of Nature’s Research Papers.” Nature News, June 16, 2025. https://www.nature.com/articles/d41586-025-01880-9.
 - Wilkinson, Mark D., Michel Dumontier, IJsbrand Jan Aalbersberg, Gabrielle Appleton, Myles Axton, Arie Baak, Niklas Blomberg, et al. “The Fair Guiding Principles for Scientific Data Management and Stewardship.” Scientific Data 3, no. 1 (March 15, 2016). https://doi.org/10.1038/sdata.2016.18.
