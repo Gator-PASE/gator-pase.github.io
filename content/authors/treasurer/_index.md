@@ -10,7 +10,7 @@ last_name: Urrego Hernández
 superuser: false
 
 # Role/position
-role: Communications Strategist
+role: Treasurer
 
 # Organizations/Affiliations
 organizations:
@@ -62,7 +62,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Appointed Officers
+  - Executive Board
 ---
 
 Estefania is a Graduate Research Assistant in the [OrthoBME Lab](https://www.orthobme.com/).
