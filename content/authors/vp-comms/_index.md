@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Zoe Schaefer
+title: 
 
 # Full Name (for SEO)
-first_name: Zoe
-last_name: Schaefer
+first_name: 
+last_name: 
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,22 +18,22 @@ organizations:
     url: 'https://www.bme.ufl.edu/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include innate immunity, host-pathogen interactions, global health, and multi-omics analysis.
+bio: 
 
 interests:
-  - Innate Immunity
-  - Host-Pathogen Interactions
-  - Global Health
-  - Multi-omics Analysis
+  - 
+  - 
+  - 
+  - 
 
 education:
   courses:
-    - course: PhD in Biomedical Engineering
-      institution: University of Florida
-      year: 2026
-    - course: BSc in Biomedical Engineering
-      institution: University of Connecticut
-      year: 2021
+    - course: 
+      institution: 
+      year: 
+    - course: 
+      institution: 
+      year: 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -42,13 +42,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'zoe.schaefer@ufl.edu'
+    link: ''
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/zoe-schaefer
+    link: 
   - icon: orcid
     icon_pack: ai
-    link: https://orcid.org/0000-0002-8735-2425
+    link: 
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -67,5 +67,3 @@ highlight_name: false
 user_groups:
   - Executive Board
 ---
-
-Zoe is a Graduate Research Assistant in the [Parker Lab](https://www.parkerhivlab.org/). Her research focuses on uncovering the molecular mechanisms behind trained immunity caused by the tuberculosis vaccine, how these mechanisms could impact global health, multi-omics analysis, and other microbial interactions with the innate immune system.

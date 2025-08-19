@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Esteban Bermúdez-Berríos
+title: 
 
 # Full Name (for SEO)
-first_name: Esteban
-last_name: Bermúdez-Berríos
+first_name: 
+last_name: 
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,22 +18,22 @@ organizations:
     url: 'https://www.bme.ufl.edu/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include biomaterials, magnetic nanoparticles, magnetic particle imaging, and nanoparticle synthesis and characterization.
+bio: 
 
 interests:
-  - Biomaterials
-  - Magnetic Nanoparticles
-  - Magnetic Particle Imaging
-  - Nanoparticle Synthesis and Characterization
+  - 
+  - 
+  - 
+  - 
 
 education:
   courses:
-    - course: PhD in Biomedical Engineering
-      institution: University of Florida
-      year: 2027
-    - course: BSc in Chemical Engineering
-      institution: University of Puerto Rico - Mayagüez
-      year: 2022
+    - course: 
+      institution: 
+      year: 
+    - course: 
+      institution: 
+      year: 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -42,13 +42,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'ebermudez1@ufl.edu'
+    link: ''
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/estebangbermudez
+    link: 
   - icon: orcid
     icon_pack: ai
-    link: https://orcid.org/0000-0002-6461-2669
+    link: 
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -68,4 +68,4 @@ user_groups:
   - Executive Board
 ---
 
-Esteban is a Graduate Research Assistant in the [Rinaldi-Ramos Lab](https://www.che.ufl.edu/rinaldi/).
+
