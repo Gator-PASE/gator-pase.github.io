@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Lucas Melgar
+title: Estefania Urrego Hernández
 
 # Full Name (for SEO)
-first_name: Lucas
-last_name: Melgar
+first_name: Estefania
+last_name: Urrego Hernández
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Treasurer
+role: Communications Strategist
 
 # Organizations/Affiliations
 organizations:
@@ -18,28 +18,22 @@ organizations:
     url: 'https://www.bme.ufl.edu/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include immune engineering, inflammation, protein engineering, and protein drug delivery.
+bio: My research interests include closing the knowledge gap between chronic inflammation as an osteoarthritis symptom and specific metabolic pathways in the joint by utilizing human cells and rodent models.
 
 interests:
-  - Immune Engineering
-  - Inflammation
-  - Protein Engineering
-  - Protein Drug Delivery
+  - Chronic Inflammation
+  - Osteoarthritis
+  - Immunomodulatory Therapeutics
+  - Drug Delivery Design
 
 education:
   courses:
     - course: PhD in Biomedical Engineering
       institution: University of Florida
-      year: 2025
-    - course: MSc in Biomedical Engineering
+      year: 2027
+    - course: BSc in Biomedical Engineering
       institution: University of Florida
       year: 2022
-    - course: BSc in Physics
-      institution: University of South Florida
-      year: 2019
-    - course: BSc in Biomedical Sciences
-      institution: University of South Florida
-      year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -48,10 +42,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'lucas.melgar@ufl.edu'
+    link: 'estefani.urregoh@ufl.edu'
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/lucas-melgar-ms-981a64137
+    link: https://www.linkedin.com/in/eurregoh/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -68,7 +62,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Executive Board
+  - Appointed Officers
 ---
 
-Lucas is a Graduate Research Assistant in the [SupraMolecular BioLab](https://www.bme.ufl.edu/labs/hudalla/). His research focuses on mitigating the immunogenicity of protein therapeutics delivered via an in-house protein drug delivery system. The protein drugs he works with are suspected to have immunomodulatory functions by decreasing inflammation in vivo.
+Estefania is a Graduate Research Assistant in the [OrthoBME Lab](https://www.orthobme.com/).

@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Estefania Urrego Hernández
+title: Esteban Bermúdez-Berríos
 
 # Full Name (for SEO)
-first_name: Estefania
-last_name: Urrego Hernández
+first_name: Esteban
+last_name: Bermúdez-Berríos
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Communications Strategist
+role: Vice President of Internal Affairs
 
 # Organizations/Affiliations
 organizations:
@@ -18,21 +18,21 @@ organizations:
     url: 'https://www.bme.ufl.edu/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include closing the knowledge gap between chronic inflammation as an osteoarthritis symptom and specific metabolic pathways in the joint by utilizing human cells and rodent models.
+bio: My research interests include biomaterials, magnetic nanoparticles, magnetic particle imaging, and nanoparticle synthesis and characterization.
 
 interests:
-  - Chronic Inflammation
-  - Osteoarthritis
-  - Immunomodulatory Therapeutics
-  - Drug Delivery Design
+  - Biomaterials
+  - Magnetic Nanoparticles
+  - Magnetic Particle Imaging
+  - Nanoparticle Synthesis and Characterization
 
 education:
   courses:
     - course: PhD in Biomedical Engineering
       institution: University of Florida
       year: 2027
-    - course: BSc in Biomedical Engineering
-      institution: University of Florida
+    - course: BSc in Chemical Engineering
+      institution: University of Puerto Rico - Mayagüez
       year: 2022
 
 # Social/Academic Networking
@@ -42,10 +42,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'estefani.urregoh@ufl.edu'
+    link: 'ebermudez1@ufl.edu'
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/eurregoh/
+    link: https://www.linkedin.com/in/estebangbermudez
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0002-6461-2669
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -62,7 +65,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - 2022 - 2025 Appointed Officers
+  - 2022 - 2025 Executive Board
 ---
 
-Estefania is a Graduate Research Assistant in the [OrthoBME Lab](https://www.orthobme.com/).
+Esteban is a Graduate Research Assistant in the [Rinaldi-Ramos Lab](https://www.che.ufl.edu/rinaldi/).

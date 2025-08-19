@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Ava Burgess
+title: Eiko Alzamora
 
 # Full Name (for SEO)
-first_name: Ava
-last_name: Burgess
+first_name: Eiko
+last_name: Alzamora
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,22 +18,22 @@ organizations:
     url: 'https://www.bme.ufl.edu/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include neural engineering, machine learning, artificial intelligence, and neuromodulation.
+bio: Eiko Alzamora’s work explores ways to better understand and address brain injury and neurodegenerative disease. She strives to create useful tools and share knowledge while supporting mentorship and outreach in STEM.
 
 interests:
-  - Neural Engineering
-  - Machine Learning
-  - Artificial Intelligence
-  - Neuromodulation
+  - Neurodegenerative disorders (Alzheimer’s disease, cognitive decline)
+  - Traumatic brain injury (TBI) and neuroinflammation
+  - Biomedical imaging and software development (DTI, MPI, MRI)
+  - Neuroengineering and biomaterials
 
 education:
   courses:
     - course: PhD in Biomedical Engineering
       institution: University of Florida
-      year: 2027
+      year: 2029
     - course: BSc in Engineering
-      institution: Wake Forest University
-      year: 2022
+      institution: University of Florida
+      year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -42,13 +42,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:avaburgess@ufl.edu'
+    link: 'mailto:ealzamora@ufl.edu'
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/avaburgess
+    link: https://www.linkedin.com/in/eiko-alzamora-8b2b1321a/
   - icon: orcid
     icon_pack: ai
-    link: https://orcid.org/0000-0003-3840-8856
+    link: https://orcid.org/0009-0009-3230-1346
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -68,4 +68,4 @@ user_groups:
   - Executive Board
 ---
 
-Ava is a Graduate Research Assistant in the [Brain Mapping Lab](http://brainmappinglab.org) under research guidance from Dr. Ayşegül Gündüz. Her primary research interests within Biomedical Engineering include Neural Engineering/Neuroengineering, Machine Learning, and Artificial Intelligence, with a primary focus on Neuromodulation techniques such as Deep Brain Stimulation (DBS) systems towards understanding neurological disorders such as Epilepsy, Essential Tremor, Tourette's syndrome, etc. Her ultimate research goals are to impact the overall quality of life for patients with neurological disorders to relieve systems impeding life through better imaging techniques, instrumentation, therapeutics, and treatments.
+Eiko is a Graduate Research Assistant in the [Tissue Mechanics, Microstructure, and Modeling Laboratory (TM3)](https://lwilliamslab.org/). Her research focuses on neurodegenerative disorders and traumatic brain injury (TBI), where she develops tools and methods to better understand brain injury and cognitive decline. She has contributed to software for Diffusion Tensor Imaging (DTI) analysis, automated histological image quantification, and imaging techniques using MRI and MPI. Beyond the lab, Eiko enjoys mentoring, collaborating with peers, and engaging in STEM outreach to inspire the next generation of scientists.
