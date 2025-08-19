@@ -2,7 +2,7 @@
 title: Introducing Policy Writing Groups for PASE Gators!
 date: 2024-10-14
 authors:
-  - vp-external
+  - prev-vp-external
 author_notes:
   - "Author"
 tags:
