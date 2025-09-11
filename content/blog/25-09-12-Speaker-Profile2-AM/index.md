@@ -1,7 +1,7 @@
 ---
 title: Squid Science, Spite, and Skype a Scientist - A Conversation with Dr. Sarah McAnulty
 summary: PASE Gator Aidan Mather profiles Dr. Sarah McAnulty for the second entry of our Past Speaker Series.
-date: 2025-09-10
+date: 2025-09-12
 authors:
   - contri-author2
   - admin
