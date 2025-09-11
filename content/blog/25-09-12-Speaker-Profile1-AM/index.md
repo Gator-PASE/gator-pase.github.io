@@ -4,7 +4,7 @@ summary: PASE Gator Aidan Mather profiles Sheeva Azma for the first entry of our
 date: 2025-09-10
 authors:
   - contri-author2
-  - president
+  - admin
 author_notes:
   - "Author"
   - "Editor"
