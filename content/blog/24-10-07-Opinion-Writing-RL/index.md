@@ -3,7 +3,7 @@ title: Making Your Voice Heard Via Opinion Writing
 summary: PASE Alumni Ronin Lupien shares his experiences with opinion writing, including information on the anatomy of a news article and some useful newsroom slang definitions!
 date: 2024-10-07
 authors:
-  - contri-author1
+  - ronin-lupien
 author_notes:
   - "Author"
 tags:

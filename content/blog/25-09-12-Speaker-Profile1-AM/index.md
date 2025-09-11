@@ -1,18 +1,18 @@
 ---
 title: From Neuroscience to Policy to Fancy Comma - A Profile of Sheeva Azma
 summary: PASE Gator Aidan Mather profiles Sheeva Azma for the first entry of our Past Speaker Series.
-date: 2025-09-12
+date: 2025-09-11
 authors:
-  - contri-author2
+  - aidan-mather
   - admin
 author_notes:
   - "Author"
   - "Editor"
 tags:
-  - open science
+  - science policy
   - science communication
 image:
-  caption: 'Sheeva Azma. Photo provided by Sheeva for inclusion in this blog post.'
+  caption: 'Graphic created by Kass Fernandez. Headshot of Sheeva Azma used with permission.'
 ---
 
 When Sheeva Azma entered graduate school to pursue a PhD in neuroscience, she didn’t imagine her career would take her through science writing, public policy, and eventually founding her own communications firm, but like many careers shaped by unexpected circumstances and opportunities, her journey became about more than the lab. It became about connecting science to the people who need to understand it most.
@@ -41,7 +41,7 @@ Her political writing, combined with her communications work, laid the foundatio
 
 Starting Fancy Comma gave Sheeva the opportunity to create something new in the science communications world, a company that doesn’t shy away from difficult or “political” topics.
 
-“The most rewarding aspect of building and leading Fancy Comma was building, from scratch, a small thought engine dedicated to the pressing issues of our time that never gets funded or talked about,” she explained. “It is never "too political" to stand up for your values and for what is right.”
+“The most rewarding aspect of building and leading Fancy Comma was building, from scratch, a small thought engine dedicated to the pressing issues of our time that never get funded or talked about,” she explained. “It is never "too political" to stand up for your values and for what is right.”
 
 Of course, navigating the intersection of science, marketing, and policy isn’t easy.
 “It’s tough! Indeed, these three things factor into all of our projects,” she said. “There's a lot more planning involved in this type of work than there is actual writing. As a result, I tend to read a lot — about science, the news, what is going on in the world, even public attitudes toward science and policies.”

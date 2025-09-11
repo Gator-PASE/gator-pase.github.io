@@ -2,7 +2,7 @@
 title: Keeping Up With Percy - Issue 01
 date: 2023-09-06
 authors:
-  - vp-comms
+  - zoe-schaefer
   - admin
 author_notes:
   - "Author"

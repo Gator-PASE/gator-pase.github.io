@@ -5,7 +5,7 @@ date: 2023-08-21
 math: true
 authors:
   - admin
-  - contri-author0
+  - cameron-crouse
 author_notes:
   - "Author"
   - "Contributing Author"

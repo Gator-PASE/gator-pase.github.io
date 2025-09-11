@@ -3,7 +3,7 @@ title: Environmentally Focused and Citizen-led Disaster Preparedness
 summary: PASE Gator Esteban Bermúdez-Berríos wrote about local efforts in Puerto Rico to empower the community to help preserve natural resources.
 date: 2023-10-03
 authors:
-  - vp-internal
+  - esteban-bermudez-berrios
 author_notes:
   - "Author"
 tags:

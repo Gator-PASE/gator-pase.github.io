@@ -4,7 +4,7 @@ summary: PASE Gators Esteban Bermúdez-Berríos and Estefania Urrego Hernández 
 date: 2024-03-28
 authors:
   - comms-strategist
-  - vp-internal
+  - esteban-bermudez-berrios
 author_notes:
   - "Author"
   - "Editor"

@@ -4,7 +4,7 @@ summary: Learn how to write op-eds of policy topics for a general audience!
 date: 2024-09-17
 math: true
 authors:
-  - prev-vp-external
+  - ava-burgess
   - admin
 author_notes:
   - "Equally Contributing Author"

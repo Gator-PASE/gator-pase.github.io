@@ -3,9 +3,11 @@ title: Open Science - Turning Knowledge into Public Good
 summary: PASE Gator Aidan Mather discusses the importance of open science practices.
 date: 2025-07-07
 authors:
-  - contri-author2
+  - aidan-mather
+  - admin
 author_notes:
   - "Author"
+  - "Editor"
 tags:
   - open science
   - science communication
