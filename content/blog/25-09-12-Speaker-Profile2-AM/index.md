@@ -1,7 +1,7 @@
 ---
 title: Squid Science, Spite, and Skype a Scientist - A Conversation with Dr. Sarah McAnulty
 summary: PASE Gator Aidan Mather profiles Dr. Sarah McAnulty for the second entry of our Past Speaker Series.
-date: 2025-09-11
+date: 2025-09-12
 authors:
   - aidan-mather
   - admin
@@ -13,7 +13,7 @@ tags:
   - community engagement
   - civic science
 image:
-  caption: 'Graphic created by Kass Fernandez. Headshot used with permission.'
+  caption: 'Graphic created by Kass Fernandez. Hawaiian bobtail squid photo by [William Ormerod](https://news.wisc.edu/in-sync-squid-glowing-companions-march-in-genetic-harmony/).'
 ---
 
 When Dr. Sarah McAnulty was little, she already knew what she wanted to be: a squid scientist. Unlike most people, she actually followed her childhood dreams and built a career around her fascination, but her story doesn’t end with a lab bench or a research vessel. Instead, Dr. McAnulty’s trajectory brought her to the helm of a nonprofit that connects scientists and the public in thousands of classrooms and communities around the world.
@@ -25,6 +25,8 @@ Dr. McAnulty is the Executive Director of [Skype a Scientist](https://www.skypea
 The political moment sharpened her sense that distrust in science was growing. “I realized that someone needed to do something about how horrible everything was.” Dr. McAnulty thought she could juggle both her passions: conducting squid research and building a program that connected scientists with the public. For a couple of years, she tried to straddle the two worlds, until reality caught up with her.
 
 “I had to choose one or the other because there are only so many waking hours in a day. I assumed that the nonprofit would fail and I could go back to being a squid biologist as I had intended for the previous 22 years, but... it didn't fail!”
+
+![An urban mural depicting a fish and flowers. Photo by Tom Donkin.](FishtownMural.jpg)
 
 **Building a Program That Stuck**
 
@@ -44,11 +46,7 @@ Equally important, Dr. McAnulty emphasizes, is the tone of those interactions. S
 
 “It's really important to me that no one ever feel judged when interacting with my science communication, and that joy and curiosity drive the interaction.”
 
-![An urban mural depicting a fish and flowers. Photo by Tom Donkin.](FishtownMural.jpg)
-
 ![An urban mural depicting a river turtle. Photo by Tom Donkin.](FrankfordMural1.jpg)
-
-![An urban mural depicting two fish swimming. Photo by Tom Donkin.](FrankfordMural2.jpg)
 
 **Challenges Along the Way**
 
@@ -66,6 +64,8 @@ For students who might want to launch their own outreach efforts, Dr. McAnulty�
 She also encourages students to check what already exists before reinventing the wheel, and to pay attention to where programming is most needed.
 
 “It’s a real bummer when you put all this effort into building something only to realize that someone else is already doing it and you could have joined forces to make something stronger. For smaller initiatives in places where there isn’t a lot of programming happening, you might take a look around and realize you’re really needed there, but it's always good to check first!”
+
+![An urban mural depicting two fish swimming. Photo by Tom Donkin.](FrankfordMural2.jpg)
 
 **Fun, Spite, and Building Trust**
 
