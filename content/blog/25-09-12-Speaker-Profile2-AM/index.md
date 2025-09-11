@@ -1,7 +1,7 @@
 ---
 title: Squid Science, Spite, and Skype a Scientist - A Conversation with Dr. Sarah McAnulty
 summary: PASE Gator Aidan Mather profiles Dr. Sarah McAnulty for the second entry of our Past Speaker Series.
-date: 2025-09-12
+date: 2025-09-11
 authors:
   - aidan-mather
   - admin
@@ -18,7 +18,7 @@ image:
 
 When Dr. Sarah McAnulty was little, she already knew what she wanted to be: a squid scientist. Unlike most people, she actually followed her childhood dreams and built a career around her fascination, but her story doesn’t end with a lab bench or a research vessel. Instead, Dr. McAnulty’s trajectory brought her to the helm of a nonprofit that connects scientists and the public in thousands of classrooms and communities around the world.
 
-Dr. McAnulty is the Executive Director of Skype a Scientist, the organization she founded as a PhD student at the University of Connecticut. Since 2017, the program has paired scientists with classrooms for virtual visits, creating direct connections between researchers and K-12 students who might otherwise never meet a scientist. What began as a side project quickly became a full-time career.
+Dr. McAnulty is the Executive Director of [Skype a Scientist](https://www.skypeascientist.com), the organization she founded as a PhD student at the University of Connecticut. Since 2017, the program has paired scientists with classrooms for virtual visits, creating direct connections between researchers and K-12 students who might otherwise never meet a scientist. What began as a side project quickly became a full-time career.
 
 “My path is not remotely logical or straightforward,” she told me. “From when I was a little kid I wanted to be a squid scientist, so I pursued that career. I enjoyed both doing squid biology and talking about squid biology… but then 2017 happened.”
 
@@ -36,13 +36,19 @@ This expansion reflects Dr. McAnulty’s deep-seated conviction that science bel
 
 **Squidmobiles, Murals, and the Power of Joy**
 
-That commitment shows up in some of her most playful projects: the Squidmobile (a car covered in squid-focused drawings, facts, and more), biodiversity murals, and even a squid facts hotline.
+That commitment shows up in some of her most playful projects: the Squidmobile (a car covered in squid-focused drawings, facts, and more), [biodiversity murals](https://www.skypeascientist.com/art.html), and even a squid facts hotline.
 
 “It's really important to me that my work reaches people who are not already in the science-interested crowd. I think that art-forward, really silly approaches are pretty good at reaching a portion of that crowd. I try to give people something that gives them just a little something for a hook, but has them thinking "What the f— is this about?" so that they want to engage further.”
 
 Equally important, Dr. McAnulty emphasizes, is the tone of those interactions. Science should invite curiosity, not judgment.
 
 “It's really important to me that no one ever feel judged when interacting with my science communication, and that joy and curiosity drive the interaction.”
+
+![An urban mural depicting a fish and flowers. Photo by Tom Donkin.](FishtownMural.jpg)
+
+![An urban mural depicting a river turtle. Photo by Tom Donkin.](FrankfordMural1.jpg)
+
+![An urban mural depicting two fish swimming. Photo by Tom Donkin.](FrankfordMural2.jpg)
 
 **Challenges Along the Way**
 

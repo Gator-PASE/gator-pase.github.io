@@ -14,7 +14,7 @@ tags:
   - science policy
   - training
 image:
-  caption: 'Image created by [Kass Fernandez](https://gator-pase.netlify.app/author/kassandra-fernandez/)'
+  caption: 'Image created by [Kass Fernandez](https://gator-pase.github.io/author/kassandra-fernandez/)'
 ---
 PASE Gator Cameron Crouse created four helpful video tutorials showing how to navigate various policy websites and search for policies and legislation more effectively. Check them out below:
 
