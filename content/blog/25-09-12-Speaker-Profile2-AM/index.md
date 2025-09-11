@@ -10,10 +10,10 @@ author_notes:
   - "Editor"
 tags:
   - science communication
-  - community outreach
+  - community engagement
   - civic science
 image:
-  caption: ''
+  caption: 'Graphic created by Kass Fernandez. Headshot used with permission.'
 ---
 
 When Dr. Sarah McAnulty was little, she already knew what she wanted to be: a squid scientist. Unlike most people, she actually followed her childhood dreams and built a career around her fascination, but her story doesn’t end with a lab bench or a research vessel. Instead, Dr. McAnulty’s trajectory brought her to the helm of a nonprofit that connects scientists and the public in thousands of classrooms and communities around the world.

@@ -1,7 +1,7 @@
 ---
 title: From Neuroscience to Policy to Fancy Comma - A Profile of Sheeva Azma
 summary: PASE Gator Aidan Mather profiles Sheeva Azma for the first entry of our Past Speaker Series.
-date: 2025-09-11
+date: 2025-09-12
 authors:
   - aidan-mather
   - admin
@@ -12,12 +12,12 @@ tags:
   - science policy
   - science communication
 image:
-  caption: 'Graphic created by Kass Fernandez. Headshot of Sheeva Azma used with permission.'
+  caption: 'Graphic created by Kass Fernandez. Headshot used with permission.'
 ---
 
 When Sheeva Azma entered graduate school to pursue a PhD in neuroscience, she didn’t imagine her career would take her through science writing, public policy, and eventually founding her own communications firm, but like many careers shaped by unexpected circumstances and opportunities, her journey became about more than the lab. It became about connecting science to the people who need to understand it most.
 
-Today, Sheeva is the founder of Fancy Comma, LLC, a science communications and policy consulting firm based in Washington, D.C. Through Fancy Comma, she translates complex scientific topics into accessible writing for the public, policymakers, and organizations navigating the intersection of research and communication. Her path to this role, however, was anything but straightforward.
+Today, Sheeva is the founder of [Fancy Comma, LLC](https://fancycomma.com/), a science communications and policy consulting firm based in Washington, D.C. Through Fancy Comma, she translates complex scientific topics into accessible writing for the public, policymakers, and organizations navigating the intersection of research and communication. Her path to this role, however, was anything but straightforward.
 
 “In 2013, I left my PhD program with a Master’s — my project ran out of funding — and that was when I figured out a plan B for my life without knowing it,” she explained. “At the time, I was the only person in my program admitted my year who had not gotten her PhD, but in today's time, when grants and fellowships are being cancelled left and right, my experiences are all-too-common. I immediately signed up for a freelancing website called Elance — now Upwork — and that’s how it all started.”
 
