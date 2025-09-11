@@ -66,4 +66,6 @@ For students considering careers in science writing or communications, her advic
 
 **Closing Thoughts**
 
-Sheeva Azma’s career shows that a path cut short in one direction can open possibilities in others. From neuroscience research to the halls of Congress, and now through her work at Fancy Comma, she demonstrates how science communication is more than a side effort; it’s essential infrastructure for connecting knowledge to action.
+Sheeva Azma’s career shows that a path cut short in one direction can open possibilities in others. From neuroscience research to the halls of Congress, and now through her work at Fancy Comma, she demonstrates how science communication is more than a side effort; it’s essential infrastructure for connecting knowledge to action. 
+
+** Editor's Note:** You can keep up with Sheeva by following her at [Fancy Comma's account on BlueSky](https://bsky.app/profile/fancycomma.bsky.social)!
