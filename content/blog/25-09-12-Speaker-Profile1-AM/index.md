@@ -1,7 +1,7 @@
 ---
 title: From Neuroscience to Policy to Fancy Comma - A Profile of Sheeva Azma
 summary: PASE Gator Aidan Mather profiles Sheeva Azma for the first entry of our Past Speaker Series.
-date: 2025-09-12
+date: 2025-09-12 00:00:01
 authors:
   - aidan-mather
   - admin
@@ -33,9 +33,9 @@ Today, she sees science policy and science communication as inseparable.
 
 Sheeva’s interest in politics predates her professional career.
 
-“I’ve always been interested in public policy — even before I could vote, I was working on political campaigns,” she said. “I wrote a whole series of essays called *A Scientist in Politics* which details my dual journey through science and policy.”
+“I’ve always been interested in public policy — even before I could vote, I was working on political campaigns,” she said. “I wrote a whole series of essays called *[A Scientist in Politics](https://fancycomma.com/a-scientist-in-politics/)* which details my dual journey through science and policy.” 
 
-Her political writing, combined with her communications work, laid the foundation for Fancy Comma. Sheeva’s *A Scientist in Politics* can be found here: https://fancycomma.com/a-scientist-in-politics/.
+Her political writing, combined with her communications work, laid the foundation for Fancy Comma.
 
 **Building Fancy Comma**
 

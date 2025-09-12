@@ -1,7 +1,7 @@
 ---
 title: Squid Science, Spite, and Skype a Scientist - A Conversation with Dr. Sarah McAnulty
 summary: PASE Gator Aidan Mather profiles Dr. Sarah McAnulty for the second entry of our Past Speaker Series.
-date: 2025-09-12
+date: 2025-09-12 00:00:02
 authors:
   - aidan-mather
   - admin
@@ -74,3 +74,5 @@ When asked how creativity can build trust in science, Dr. McAnulty’s answer is
 “Have fun first. People can tell when we’re doing things out of obligation instead of doing it from a place of joy. The actions of evil people may have motivated your art, but create something you enjoy creating, even if it’s fueled by rage, or spite. Spite can be really fun.”
 
 It’s this mix of joy, defiance, and squid-shaped creativity that has carried Skype a Scientist from a side project to a thriving nonprofit. Dr. McAnulty may not have followed the straightforward path she imagined as a child, but the one she built instead continues to connect scientists with communities, one classroom, mural, and squid fact at a time.
+
+** Editor's Note:** You can keep up with Dr. McAnulty by following her [account on BlueSky](https://bsky.app/profile/sarahmackattack.bsky.social)!
