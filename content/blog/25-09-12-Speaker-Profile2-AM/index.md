@@ -75,4 +75,4 @@ When asked how creativity can build trust in science, Dr. McAnulty’s answer is
 
 It’s this mix of joy, defiance, and squid-shaped creativity that has carried Skype a Scientist from a side project to a thriving nonprofit. Dr. McAnulty may not have followed the straightforward path she imagined as a child, but the one she built instead continues to connect scientists with communities, one classroom, mural, and squid fact at a time.
 
-**Editor's Note:** You can keep up with Dr. McAnulty by following her [account on BlueSky](https://bsky.app/profile/sarahmackattack.bsky.social)!
+**Editor's Note:** You can keep up with [Dr. McAnulty](https://bsky.app/profile/sarahmackattack.bsky.social) and [Skype a Scientist](https://bsky.app/profile/skypeascientist.bsky.social) on BlueSky!
