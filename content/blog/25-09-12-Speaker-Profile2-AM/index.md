@@ -13,7 +13,7 @@ tags:
   - community engagement
   - civic science
 image:
-  caption: 'Graphic created by Kass Fernandez. Hawaiian bobtail squid photo by [William Ormerod](https://news.wisc.edu/in-sync-squid-glowing-companions-march-in-genetic-harmony/).'
+  caption: 'Graphic created by Kass Fernandez. Headshot (with spider crab) provided by Dr. Sarah McAnulty.'
 ---
 
 When Dr. Sarah McAnulty was little, she already knew what she wanted to be: a squid scientist. Unlike most people, she actually followed her childhood dreams and built a career around her fascination, but her story doesn’t end with a lab bench or a research vessel. Instead, Dr. McAnulty’s trajectory brought her to the helm of a nonprofit that connects scientists and the public in thousands of classrooms and communities around the world.
@@ -26,7 +26,7 @@ The political moment sharpened her sense that distrust in science was growing. �
 
 “I had to choose one or the other because there are only so many waking hours in a day. I assumed that the nonprofit would fail and I could go back to being a squid biologist as I had intended for the previous 22 years, but... it didn't fail!”
 
-![An urban mural depicting a fish and flowers. Photo by Tom Donkin.](FishtownMural.jpg)
+![Dr.McAnulty using a blowdryer to speed the mural drying process. Photo by Dr. Sarah McAnulty.](MuralProgress1.jpg)
 
 **Building a Program That Stuck**
 
@@ -35,6 +35,8 @@ When Skype a Scientist launched, the idea was simple: match scientists with clas
 “We’ve continued the program that I built and ran from the beginning,” Dr. McAnulty explained, “but we’ve expanded a lot into in-person community-based events and programming. The new programming includes everything from activities at block parties to community murals that focus on biodiversity, to creating and distributing science zines.”
 
 This expansion reflects Dr. McAnulty’s deep-seated conviction that science belongs everywhere, not just in classrooms or lecture halls. She’s committed to reaching people who aren’t already “science-interested.”
+
+![Dr. McAnulty taking a selfie with an in-progress mural. Photo by Dr. Sarah McAnulty.](MuralProgress2.jpg)
 
 **Squidmobiles, Murals, and the Power of Joy**
 
@@ -46,7 +48,7 @@ Equally important, Dr. McAnulty emphasizes, is the tone of those interactions. S
 
 “It's really important to me that no one ever feel judged when interacting with my science communication, and that joy and curiosity drive the interaction.”
 
-![An urban mural depicting a river turtle. Photo by Tom Donkin.](FrankfordMural1.jpg)
+![An urban mural depicting a fish and flowers. Photo by Tom Donkin.](FishtownMural.jpg)
 
 **Challenges Along the Way**
 
@@ -55,6 +57,8 @@ Starting a nonprofit as a graduate student wasn’t easy. There were skeptics wh
 “Fundraising is always the hardest part, but that’s not a new or interesting answer,” she said matter-of-factly.
 
 What kept her going was an ability to tune out unhelpful advice and focus on her vision.
+
+![An urban mural depicting a turtle looking at the viewer. Photo by Tom Donkin.](FrankfordMural1.jpg)
 
 **Lessons for Students**
 
