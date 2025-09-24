@@ -1,6 +1,6 @@
 ---
 title: Summer Workshop Series Recap - Day 3
-date: 2025-07-07
+date: 2025-07-07 00:00:03
 authors:
   - aidan-mather
 author_notes:

@@ -1,6 +1,6 @@
 ---
 title: Summer Workshop Series Recap - Day 1
-date: 2025-07-07
+date: 2025-07-07 00:00:01
 authors:
   - comms-strategist
 author_notes:
