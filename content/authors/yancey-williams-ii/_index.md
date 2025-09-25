@@ -1,16 +1,16 @@
 ---
 # Display name
-title: 
+title: Yancey Williams II
 
 # Full Name (for SEO)
-first_name: 
-last_name: 
+first_name: Yancey
+last_name: Williams II
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Vice President of Internal Affairs
+role: Communications Manager
 
 # Organizations/Affiliations
 organizations:
@@ -67,5 +67,3 @@ highlight_name: false
 user_groups:
   - Executive Board
 ---
-
-

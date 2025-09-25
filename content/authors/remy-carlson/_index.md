@@ -1,16 +1,16 @@
 ---
 # Display name
-title: 
+title: Remy Carlson
 
 # Full Name (for SEO)
-first_name: 
-last_name: 
+first_name: Remy
+last_name: Carlson
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Vice President of Communications
+role: Vice President of External Affairs
 
 # Organizations/Affiliations
 organizations:
@@ -67,3 +67,5 @@ highlight_name: false
 user_groups:
   - Executive Board
 ---
+
+

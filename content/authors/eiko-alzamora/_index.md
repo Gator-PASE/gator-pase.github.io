@@ -10,7 +10,7 @@ last_name: Alzamora
 superuser: false
 
 # Role/position
-role: Vice President of External Affairs
+role: Vice President of Internal Affairs
 
 # Organizations/Affiliations
 organizations:
