@@ -21,16 +21,16 @@ organizations:
 bio: 
 
 interests:
-  - 
-  - 
-  - 
-  - 
+  - Tissue Engineering
+  - Biomaterials
+  - Musculoskeletal Disorders
+  - Science Communication
 
 education:
   courses:
-    - course: 
-      institution: 
-      year: 
+    - course: BS in Biomedical Engineering
+      institution: University of Florida
+      year: 2027
     - course: 
       institution: 
       year: 
@@ -42,10 +42,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: ''
+    link: 'remy.carlson@ufl.edu'
   - icon: linkedin
     icon_pack: fab
-    link: 
+    link: https://www.linkedin.com/in/remy-carlson/
   - icon: orcid
     icon_pack: ai
     link: 
@@ -68,4 +68,4 @@ user_groups:
   - Executive Board
 ---
 
-
+Remy is a third year Biomedical Engineer on the pre-health track. She was previously an undergraduate research assistant in the musculoskeletal biomechanics lab studying carpometacarpal osteoarthritis, which pulled her into the musculoskeletal space. This summer she did a REU program at the University of Pennsylvania studying muscle stem cell mechanobiology and regeneration, which sparked her interest in the biomaterials space with a focus on musculoskeletal tissue health. 
