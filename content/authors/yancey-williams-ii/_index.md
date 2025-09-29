@@ -18,22 +18,21 @@ organizations:
     url: 'https://www.bme.ufl.edu/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: I am a Ph.D. in the Department of Biomedical Engineering. At UF, my research builds on this trajectory by investigating how metabolic dysfunction contributes to disease progression. I am excited by UF’s strengths in biomedical science and the collaborative environment across engineering and medicine, which provide both the tools and mentorship to tackle these complex questions.
 
 interests:
-  - 
-  - 
-  - 
-  - 
+  - Tissue Engineering
+  - Vascular Physiology
+  - Computational Modeling
 
 education:
   courses:
-    - course: 
-      institution: 
-      year: 
-    - course: 
-      institution: 
-      year: 
+    - course: PhD in Biomedical Engineering
+      institution: University of Florida
+      year: 2031
+    - course: BS in Bioengineering and Biomedical Engineering
+      institution: University of Alabama at Birmingham
+      year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -45,10 +44,10 @@ social:
     link: ''
   - icon: linkedin
     icon_pack: fab
-    link: 
+    link: https://www.linkedin.com/in/yanceywilliams2/
   - icon: orcid
     icon_pack: ai
-    link: 
+    link: https://orcid.org/0000-0002-1635-2989
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
