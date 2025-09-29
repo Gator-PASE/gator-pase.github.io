@@ -18,7 +18,7 @@ organizations:
     url: 'https://www.bme.ufl.edu/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Ph.D. in the Department of Biomedical Engineering. At UF, my research builds on this trajectory by investigating how metabolic dysfunction contributes to disease progression. I am excited by UF’s strengths in biomedical science and the collaborative environment across engineering and medicine, which provide both the tools and mentorship to tackle these complex questions.
+bio: My research interests include cardiac electrophysiology, tissue engineering, metabolism, disparities in rural healthcare, and clinical gene therapies. I am particularly interested in subjects that lie at the intersection of translational research and clinical intervention, and it is my professional intention to continue to refine my research skills to become a successful physician-scientist.
 
 interests:
   - Tissue Engineering
@@ -66,3 +66,5 @@ highlight_name: false
 user_groups:
   - Executive Board
 ---
+
+I am a Ph.D. in the Department of Biomedical Engineering. At UF, my research builds on this trajectory by investigating how metabolic dysfunction contributes to disease progression. I am excited by UF’s strengths in biomedical science and the collaborative environment across engineering and medicine, which provide both the tools and mentorship to tackle these complex questions.
