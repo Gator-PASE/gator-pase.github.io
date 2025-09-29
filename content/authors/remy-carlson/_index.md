@@ -31,9 +31,6 @@ education:
     - course: BS in Biomedical Engineering
       institution: University of Florida
       year: 2027
-    - course: 
-      institution: 
-      year: 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
