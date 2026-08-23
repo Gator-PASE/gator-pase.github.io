@@ -25,12 +25,7 @@ interests:
 
 education:
   courses:
-    - course: PhD in Biomedical Engineering
-      institution: University of Florida
-      year: 2027
-    - course: BSc in Biomedical Engineering
-      institution: University of Florida
-      year: 2022
+    
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

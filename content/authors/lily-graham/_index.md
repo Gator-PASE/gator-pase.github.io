@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Carsyn Gregory
+title: Lily Graham
 
 # Full Name (for SEO)
-first_name: Carsyn
-last_name: Gregory
+first_name: Lily
+last_name: Graham
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Vice President of Internal Affairs
+role: Treasurer
 
 # Organizations/Affiliations
 organizations:
@@ -18,17 +18,14 @@ organizations:
     url: 'https://www.bme.ufl.edu/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: placeholder
+bio: 
 
 interests:
-  - 1
-  - 2
-  - 3
-  - 4
+  
 
 education:
   courses:
-  
+    
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -37,7 +34,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'carsyngregory@ufl.edu'
+    link: 'lilygraham@ufl.edu'
   - icon: linkedin
     icon_pack: fab
     link: 
@@ -49,7 +46,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'carsyngregory@ufl.edu'
+email: 'lilygraham@ufl.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
