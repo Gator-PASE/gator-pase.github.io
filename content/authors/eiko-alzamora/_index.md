@@ -65,7 +65,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Executive Board
+  - []
 ---
 
 Eiko is a Graduate Research Assistant in the [Tissue Mechanics, Microstructure, and Modeling Laboratory (TM3)](https://lwilliamslab.org/). Her research focuses on neurodegenerative disorders and traumatic brain injury (TBI), where she develops tools and methods to better understand brain injury and cognitive decline. She has contributed to software for Diffusion Tensor Imaging (DTI) analysis, automated histological image quantification, and imaging techniques using MRI and MPI. Beyond the lab, Eiko enjoys mentoring, collaborating with peers, and engaging in STEM outreach to inspire the next generation of scientists.

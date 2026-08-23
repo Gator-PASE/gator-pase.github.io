@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Irene Ledford
+title: Katie Childers
 
 # Full Name (for SEO)
-first_name: Irene
-last_name: Ledford
+first_name: Katie
+last_name: Childers
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Media Specialist
+role: Vice President of External Affairs
 
 # Organizations/Affiliations
 organizations:
@@ -18,25 +18,19 @@ organizations:
     url: 'https://www.bme.ufl.edu/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: placeholder
+bio: 
 
 interests:
-  - 1
-  - 2
-  - 3
-  - 4
+  
 
 education:
   courses:
-    - course: MSc in Biomedical Engineering
+    - course: PhD in Biomedical Engineering
       institution: University of Florida
-      year: 2026
+      year: 2027
     - course: BSc in Biomedical Engineering
       institution: University of Florida
-      year: 2024
-    - course: BSc in Spanish
-      institution: University of Florida
-      year: 2024
+      year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -45,10 +39,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'iledford@ufl.edu'
+    link: 'k.childers@ufl.edu'
   - icon: linkedin
     icon_pack: fab
-    link: https://linkedin.com/irene-ledford-94539132b
+    link: 
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -57,7 +51,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'k.childers@ufl.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -65,7 +59,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - []
+  - Executive Board
 ---
 
-Irene is a Graduate Research Assistant in the [Parker Lab](https://www.parkerhivlab.org/).
