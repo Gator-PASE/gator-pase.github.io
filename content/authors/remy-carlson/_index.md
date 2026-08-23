@@ -10,7 +10,7 @@ last_name: Carlson
 superuser: false
 
 # Role/position
-role: Vice President of External Affairs
+role: President 
 
 # Organizations/Affiliations
 organizations:
@@ -65,4 +65,4 @@ user_groups:
   - Executive Board
 ---
 
-Remy is a third year Biomedical Engineer on the pre-health track. She was previously an undergraduate research assistant in the musculoskeletal biomechanics lab studying carpometacarpal osteoarthritis, which pulled her into the musculoskeletal space. This summer she did a REU program at the University of Pennsylvania studying muscle stem cell mechanobiology and regeneration, which sparked her interest in the biomaterials space with a focus on musculoskeletal tissue health. 
+Remy is a fourth-year Biomedical Engineering student on the pre-health track and President of Policy Advocacy in Science and Engineering. She previously studied carpometacarpal osteoarthritis in the UF Musculoskeletal Biomechanics Lab and muscle stem cell mechanobiology and regeneration through an REU at the University of Pennsylvania. She currently conducts tendon tissue engineering and mechanobiology research in the Taylor Lab at UF. Her experiences have shaped her interests in biomaterials, regenerative medicine, and musculoskeletal health, as well as her commitment to improving the communication and advocacy of scientific research.
