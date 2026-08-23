@@ -70,7 +70,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Executive Board
+  - []
 ---
 
 Kass is a Graduate Research Assistant in [Dr. Nancy Ruzycki's lab](https://equipd.mse.ufl.edu/). Previously, they worked as a science teacher at a Title I school in Homestead, Florida and as an adjunct professor of Microbiology at a Hispanic-serving community college in Miami, Florida. They are currently exploring perceptions of mentorship within undergraduate STEM student organizations & near peer mentorship between undergraduate student mentors & K-12 student mentees in the context of educational out-of-school time (OST) STEM programs.

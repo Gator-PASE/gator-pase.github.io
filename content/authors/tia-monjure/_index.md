@@ -59,7 +59,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Appointed Officers
+  - []
 ---
 
 Tia is a Graduate Research Assistant in the [Angelini Soft Matter and Biophysics Lab](https://www.theangelinilab.com/).
