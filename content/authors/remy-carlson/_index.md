@@ -11,6 +11,7 @@ superuser: false
 
 # Role/position
 role: President 
+board_order: 3
 
 # Organizations/Affiliations
 organizations:

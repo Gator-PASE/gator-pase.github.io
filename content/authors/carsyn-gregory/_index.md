@@ -11,6 +11,7 @@ superuser: false
 
 # Role/position
 role: Vice President of Internal Affairs
+board_order: 4
 
 # Organizations/Affiliations
 organizations:

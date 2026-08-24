@@ -14,7 +14,7 @@ sections:
           - Executive Board
           - Appointed Officers
           - Contributing Authors
-      sort_by: Params.last_name
+      sort_by: Params.board_order
       sort_ascending: true
     design:
       show_interests: false

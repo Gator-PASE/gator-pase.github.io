@@ -11,6 +11,7 @@ superuser: false
 
 # Role/position
 role: Vice President of External Affairs
+board_order: 1
 
 # Organizations/Affiliations
 organizations:
