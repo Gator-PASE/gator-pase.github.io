@@ -11,7 +11,7 @@ superuser: false
 
 # Role/position
 role: Communications Manager
-board_order = 5
+board_order: 5
 
 # Organizations/Affiliations
 organizations:

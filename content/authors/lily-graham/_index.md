@@ -11,6 +11,7 @@ superuser: false
 
 # Role/position
 role: Treasurer
+board_order: 2
 
 # Organizations/Affiliations
 organizations:
