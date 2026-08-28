@@ -25,6 +25,9 @@ bio: Carsyn is a second-year Health Science student on the pre-med track and Vic
 
 education:
   courses:
+    - course: BS in Biomedical Engineering
+      institution: University of Florida
+      year: 2029
   
 
 # Social/Academic Networking
