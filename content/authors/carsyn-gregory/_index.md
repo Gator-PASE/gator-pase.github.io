@@ -19,13 +19,9 @@ organizations:
     url: 'https://www.bme.ufl.edu/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: placeholder
+bio: Carsyn is a second-year Health Science student on the pre-med track and Vice President of Internal Affairs for Policy Advocacy in Science and Engineering. She recently joined the UF Congenital Heart Center research team, where she works with transplant data to study factors that may influence patient outcomes. Her interests center on the intersection of healthcare, policy, and medicine, particularly how health policy and healthcare systems shape patient care and outcomes. She is passionate about exploring ways to improve the healthcare system and advocate for policies that better support patients.
 
-interests:
-  - 1
-  - 2
-  - 3
-  - 4
+
 
 education:
   courses:
