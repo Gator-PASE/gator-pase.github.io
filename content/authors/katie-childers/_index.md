@@ -23,9 +23,11 @@ bio:
 
 interests:
   
-
 education:
   courses:
+    - course: BS in Biomedical Engineering
+      institution: University of Florida
+      year: 2027
     
 
 # Social/Academic Networking
